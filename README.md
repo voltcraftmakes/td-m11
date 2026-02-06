@@ -5,7 +5,7 @@ TIDradio TD-M11 FRS/GMRS/PMR446 radio
 <table>
 <tr>
   <td>
-  <a href="https://youtu.be/o2LUXxH6YpM">Video #1 2026-02-04</a></td>
+  <a href="https://youtu.be/o2LUXxH6YpM">Video #1<Br>2026-02-04</a></td>
 <td>
 Everything we know up to this point about the M11 Radio.  We tear it open, analyze the major components and then review all of the methods of programing and configuring the radio.  We look at the FCC test reports and then the accessories for sale and the current cost of different options and bundles in the market. <br><br>
 Fcc report review:<br>
@@ -19,7 +19,7 @@ Fcc report review:<br>
 </td>
 </tr>
 <tr>
-  <td><a href="https://www.youtube.com/watch?v=o2LUXxH6YpM&t=5s">[0:05] Teardown </a> </td>
+  <td><a href="https://www.youtube.com/watch?v=o2LUXxH6YpM&t=5s">Teardown<br>[0:05] </a> </td>
   <td>Pry cover off back, starting from bottom <br>
   Remove battery<br>
   Remove 6 torque screws: 2 at bottom, 2 beside label, 2 at top, can use small flathead scewdriver if you do not have the correct torx bit<br>
@@ -31,23 +31,23 @@ Fcc report review:<br>
   Optional - remove retainer ring from ptt/volume switch to remove switch  </td>
 </tr>
 <tr><td>
-  <a href="https://www.youtube.com/watch?v=o2LUXxH6YpM&t=318s">[5:18] PCB High Res Pictures</a></td>
+  <a href="https://www.youtube.com/watch?v=o2LUXxH6YpM&t=318s">PCB High Res Pictures<br>[5:18]</a></td>
 <td><img src="https://github.com/voltcraftmakes/td-m11/blob/main/docs/PCB-M11-back.JPG" width="200"> <img src="https://github.com/voltcraftmakes/td-m11/blob/main/docs/PCB-M11-front.JPG" width="200"> <img src="https://github.com/voltcraftmakes/td-m11/blob/main/docs/PCB-M11-side.JPG" width="200"><br>
  PCB: TD-M11_1.4 20231130<br>
  PCB: TD-M11-PTT_V1.0 20241224<br>
   </td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=o2LUXxH6YpM&t=333s">[5:33] IC Chip Analysis  </a></td>
+<tr><td><a href="https://www.youtube.com/watch?v=o2LUXxH6YpM&t=333s">IC Chip Analysis<br>[5:33]</a></td>
 </tr>
-<tr><td><a href="https://www.youtube.com/watch?v=o2LUXxH6YpM&t=920s">[15:20] Radio Modes </a></td>
+<tr><td><a href="https://www.youtube.com/watch?v=o2LUXxH6YpM&t=920s">Radio Modes<br>[15:20]</a></td>
 </tr>
-<tr><td><a href="https://www.youtube.com/watch?v=o2LUXxH6YpM&t=1204s">[20:04] Odmaster Bluetooth Programming  </a></td>
+<tr><td><a href="https://www.youtube.com/watch?v=o2LUXxH6YpM&t=1204s">Odmaster Bluetooth Programming<br>[20:04]</a></td>
 </tr>
-<tr><td><a href="https://www.youtube.com/watch?v=o2LUXxH6YpM&t=1589s">[26:29] Manual  </a></td>
+<tr><td><a href="https://www.youtube.com/watch?v=o2LUXxH6YpM&t=1589s">Manual<br>[26:29]</a></td>
 </tr>
-<tr><td><a href="https://www.youtube.com/watch?v=o2LUXxH6YpM&t=1641s">[27:21] CPS Programming Software  </a></td>
-</tr><td><a href="https://www.youtube.com/watch?v=o2LUXxH6YpM&t=2020s">[33:40] Prolific Chipset driver fix  </a></td>
-<tr><td><a href="https://www.youtube.com/watch?v=o2LUXxH6YpM&t=2127s">[35:27] Chirp Programming Software  </a></td>
-</tr><td><a href="https://www.youtube.com/watch?v=o2LUXxH6YpM&t=2344s">[39:04] FCC 2A4FBM11 Filing  </a></td>
-<tr><td><a href="https://www.youtube.com/watch?v=o2LUXxH6YpM&t=3701s>[1:01:41] Radio versions/Accessories</a></td>
+<tr><td><a href="https://www.youtube.com/watch?v=o2LUXxH6YpM&t=1641s">CPS Programming Software<br>[27:21]</a></td>
+</tr><td><a href="https://www.youtube.com/watch?v=o2LUXxH6YpM&t=2020s">Prolific Chipset driver fix<br>[33:40]</a></td>
+<tr><td><a href="https://www.youtube.com/watch?v=o2LUXxH6YpM&t=2127s">Chirp Programming Software<br>[35:27]</a></td>
+</tr><td><a href="https://www.youtube.com/watch?v=o2LUXxH6YpM&t=2344s">FCC 2A4FBM11 Filing<br>[39:04]</a></td>
+<tr><td><a href="https://www.youtube.com/watch?v=o2LUXxH6YpM&t=3701s">Radio versions/Accessories<br>[1:01:41] </a></td>
 </tr>
 </table>
