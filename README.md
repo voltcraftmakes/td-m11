@@ -1,5 +1,5 @@
-# td-m11
-TIDradio TD-M11 FRS/GMRS/PMR446 radio
+TIDradio TD-M11 FRS/GMRS/PMR446 radio<br>
+This is detailed notes for the <a href="https://youtube.com/playlist?list=PLtvm4lCCHoKhjR_rtdxlchr7XDJ9G2VnH">VCmakes Youtube video series</a> tearing into this radio.
 
 # Videos
 <table>
