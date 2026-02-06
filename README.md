@@ -31,8 +31,16 @@ Everything we know up to this point about the M11 Radio.  We tear it open, analy
 <tr><td><a href="https://www.youtube.com/watch?v=o2LUXxH6YpM&t=333s">IC Chip Analysis<br>[5:33]</a></td>
   <td>
     <b>8002D Audio Amplifier</b><br>
+    <a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/8002D%20HAA8002D.PDF">8002D HAA8002D.PDF</a><br>
+    <a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/8002D%20HXJ8002_Miniature_Audio_Amplifier_Datasheet.pdf">8002D HXJ8002_Miniature_Audio_Amplifier_Datasheet.pdf</a><br>
     <br>
+    <b>H0602C RF Amplifier</b><br>
+      <A href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/h0602c.pdf">h0602c.pdf</A><br>
+      <br>
   <b>Beken BK4819 Analog/DSP Two Way Radio IC</b><br>
+      <a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/BK4819_Datasheet_V1.0.pdf">BK4819_Datasheet_V1.0.pdf</a><br>
+      <a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/BK4819(V3)%20Application%20Note%2020210428.pdf">BK4819(V3) Application Note 20210428.pdf</a><br>
+      <a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/BK4819V3Registers_List_20201218.pdf">BK4819V3Registers_List_20201218.pdf</a><br>
     <br>
   <b>Telink EP2T45F10ER Bluetooth LE 5.3 </b><Br>
     <a href="https://device.report/telink-semiconductor-shanghai/ep2t45f10er">Certification EP2T45F10ER telink semiconductor shanghai co l t d</a> shows Declaration ID D067493 with QUID 236357 is also used for TLSR8208 part ends in B,C,D,G,J depending on package size, Sram, Flash. Hardware version: TLSR, released 2023-06-2, cert date 2024-03-28 very likely datasheet for TLSR8208 is close match to EP2T45F10ER.<br>
@@ -44,17 +52,18 @@ Everything we know up to this point about the M11 Radio.  We tear it open, analy
     <a href="https://doc.telink-semi.cn/doc/en/software/res/sdk/ble/b80_ble_otp_en/b80_ble_otp_en/">TLSR820x BLE SDK</a><br>
     <a href="https://github.com/telink-semi/tc_ble_simple_sdk/releases/tag/V3.4.2.2">TLSR8208 Github</a><br>
     <br>
-  <b>Honor Micro HBM32G003TS20 MCU ARM Cortex M0 48Mhz, 64K Flash, 2K Ram TSSOP20</b><br>
+  <b>Honor HBM32G003TS20 MCU ARM Cortex M0 48Mhz, 64K Flash, 2K Ram TSSOP20</b><br>
     16 IO, 9ADC, 2 Timer, 3PWM, 1 of IWDT, UART, SPI, I2C Temp:-45C to 85C<br>
     VDD:2.3-3.6V, lower power mode 0.6uA<br>
     <a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/HBM32G003%E6%95%B0%E6%8D%AE%E6%89%8B%E5%86%8CV1.5.pdf">HBM32G003数据手册V1.5.pdf</a><br>
     <a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/HBM32G003%E6%95%B0%E6%8D%AE%E6%89%8B%E5%86%8CV1.5.zh-CN.en.pdf">HBM32G003数据手册V1.5.zh-CN.en.pdf</a><Br>
-    
-    
-  <br>
-  <b>TM1652</b><br>
+    <br>
+  <b>Titan TM1652 LED/Display driver</b><br>
+    <a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/TM1652%20C52186.pdf">TM1652 C52186.pdf</a><Br>
+    <a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/TM1652%20C52186.zh-CN.en.pdf">TM1652 C52186.zh-CN.en.pdf</a><br>
     <br>
   <b>Switch Metal Dome</b><br>
+  <A href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/metal-dome-catalog.pdf">metal-dome-catalog.pdf</A></br>
     
   </td>
 </tr>
