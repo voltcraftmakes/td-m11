@@ -53,5 +53,4 @@ Fcc report review:<br>
 </table>
 
 
- <a href='http://www.freevisitorcounters.com'>on Freevisitorcounters.com</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=fc66d86fd7e15b5823822ee1c32edb033be7cb53'></script>
-<script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/1497782/t/10"></script>
+<script type="text/javascript" src="https://counter.websiteout.com/js/24/0/0/0"></script>
