@@ -32,8 +32,21 @@ Everything we know up to this point about the M11 Radio.  We tear it open, analy
   <td>
     <b>8002D Audio Amplifier</b><br>
   <b>Beken BK4819 Analog/DSP Two Way Radio IC</b><br>
-  <b>Telink EP2T45F10 Bluetooth LE 5.3 </b><Br>
-    <a href="https://device.report/telink-semiconductor-shanghai/ep2t45f10er">Certification EP2T45F10ER telink semiconductor shanghai co l t d  </a><br>
+  <b>Telink EP2T45F10ER Bluetooth LE 5.3 </b><Br>
+    <a href="https://device.report/telink-semiconductor-shanghai/ep2t45f10er">Certification EP2T45F10ER telink semiconductor shanghai co l t d</a> shows Ceclaration ID D067493 with QUID 236357 is also used for TLSR8208 part ends in B,C,D,G,J depending on package size, Sram, Flash. Hardware version: TLSR, released 2023-06-2, cert date 2024-03-28 very likely datasheet for TLSR8208 is close match to EP2T45F10ER.<br>
+    <a href="https://products.telink-semi.cn/#/">Telink part selector</a><br>
+    <a href="https://www.telink-semi.com/products/bluetooth-le/tlsr8208">Telink TLSR8208 product page</a><br>
+    <a href="https://products.telink-semi.cn/#/parIndex?id=80">Telink TLSR8208B product page</a><br>
+    <a href="https://wiki.telink-semi.cn/wiki/chip-series/TLSR8208-Series/"> Telink TLSR8208 series page</a><br>
+    <a href="https://doc.telink-semi.cn/doc/en/application_note/res/home/bulb_tlsr8208/lighting_sdk_developer_handbook_en/">TLSR8208 Lighting example</a><br>
+    <a href="https://doc.telink-semi.cn/doc/en/software/res/sdk/ble/b80_ble_otp_en/b80_ble_otp_en/">TLSR820x BLE SDK</a><br>
+    <a href="https://github.com/telink-semi/tc_ble_simple_sdk/releases/tag/V3.4.2.2">TLSR8208 Github</a><br>
+    
+    
+   
+    
+    
+    
   <b>HBM32G003TS20</b><br>
   <b>TM1652</b><br>
   <b>Switch Metal Dome</b><br>
