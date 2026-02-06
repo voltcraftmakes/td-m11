@@ -26,7 +26,7 @@ Everything we know up to this point about the M11 Radio.  We tear it open, analy
 <td><img src="https://github.com/voltcraftmakes/td-m11/blob/main/docs/PCB-M11-back.JPG" width="200"> <img src="https://github.com/voltcraftmakes/td-m11/blob/main/docs/PCB-M11-front.JPG" width="200"> <img src="https://github.com/voltcraftmakes/td-m11/blob/main/docs/PCB-M11-side.JPG" width="200"><br>
  PCB: TD-M11_1.4 20231130<br>
  PCB: TD-M11-PTT_V1.0 20241224<br>
-  <td></tr>
+  </td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=o2LUXxH6YpM&t=333s">[5:33] IC Chip Analysis  </a></td>
 </tr>
 <tr><td><a href="https://www.youtube.com/watch?v=o2LUXxH6YpM&t=920s">[15:20] Radio Modes </a></td>
