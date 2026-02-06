@@ -8,13 +8,13 @@ Everything we know up to this point about the M11 Radio.  We tear it open, analy
 - [0:05](https://www.youtube.com/watch?v=o2LUXxH6YpM&t=5s) Teardown  
   Pry cover off back, starting from bottom  
   Remove battery  
-  Remove 6 torque screws: 2 at bottom, 2 beside label, 2 at top, can use small flathead scewdriver if you do not have the correct torx bit
+  Remove 6 torque screws: 2 at bottom, 2 beside label, 2 at top, can use small flathead scewdriver if you do not have the correct torx bit  
   Pry face of radio off  
   Optional - remove power/volume knob
   Remove power/volume flex circuit by lifting tab on connector and lifting cable out  
-  Gently pry board away from housing, push down at antenna end to seperate from case
-  Optional - unsolder charge contacts, mic, speaker
-  Optional - remove retainer ring from ptt/volume switch to rmeove switch
+  Gently pry board away from housing, push down at antenna end to seperate from case  
+  Optional - unsolder charge contacts, mic, speaker  
+  Optional - remove retainer ring from ptt/volume switch to rmeove switch  
 - [5:18](https://www.youtube.com/watch?v=o2LUXxH6YpM&t=318s) PCB High Res Pictures  
  <img src="https://github.com/voltcraftmakes/td-m11/blob/main/docs/PCB-M11-back.JPG" width="200"> <img src="https://github.com/voltcraftmakes/td-m11/blob/main/docs/PCB-M11-front.JPG" width="200"> <img src="https://github.com/voltcraftmakes/td-m11/blob/main/docs/PCB-M11-side.JPG" width="200">  
 - [5:33](https://www.youtube.com/watch?v=o2LUXxH6YpM&t=333s) IC Chip Analysis  
