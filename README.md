@@ -25,7 +25,8 @@ Everything we know up to this point about the M11 Radio.  We tear it open, analy
 </tr>
 <tr><td>
   <a href="https://www.youtube.com/watch?v=o2LUXxH6YpM&t=318s">PCB High Res Pictures<br>[5:18]</a></td>
-<td><img src="https://github.com/voltcraftmakes/td-m11/blob/main/docs/PCB-M11-back.JPG" width="200"> <img src="https://github.com/voltcraftmakes/td-m11/blob/main/docs/PCB-M11-front.JPG" width="200"> <img src="https://github.com/voltcraftmakes/td-m11/blob/main/docs/PCB-M11-side.JPG" width="200"><br>
+<td>
+	<img src="https://github.com/voltcraftmakes/td-m11/blob/main/docs/TD-M11%20Label.jpg" width="88"> <img src="https://github.com/voltcraftmakes/td-m11/blob/main/docs/PCB-M11-back.JPG" width="150"> <img src="https://github.com/voltcraftmakes/td-m11/blob/main/docs/PCB-M11-front.JPG" width="150"> <img src="https://github.com/voltcraftmakes/td-m11/blob/main/docs/PCB-M11-side.JPG" width="150"><br>
  PCB: TD-M11_1.4 20231130<br>
  PCB: TD-M11-PTT_V1.0 20241224<br>
   </td></tr>
@@ -85,12 +86,11 @@ Everything we know up to this point about the M11 Radio.  We tear it open, analy
     <a href="https://play.google.com/store/apps/details?id=com.tid.walkie&hl=en_US">Odmaster - Android</a><br>
   </tr>
 <tr><td><a href="https://www.youtube.com/watch?v=o2LUXxH6YpM&t=1589s">Manual<br>[26:29]</a></td>
-  <td>New manual compared to one filed with FCC
-    Technical spec missing
+  <td>New manual compared to one filed with FCC<br>
     Page3 LED Display graphic hard squished to bad ratio<br>
     Page5 Icons for Battery charge status are better<br>
     Page6 I have not seen the 'end of transmission tone' email me if you have one<br>
-    Page8 Bluetooth section completely rewritten "When the Bluetooth function is turned on, the icon displays and the red light turns on.  The green light is on after connecting through the cell phone APP (Odmaster)  . The green light flashes during communicatoni and the light is off when communication is over"<br>
+    Page8 Bluetooth section completely rewritten "When the Bluetooth function is turned on, the icon displays and the red light turns on.  The green light is on after connecting through the cell phone APP (Odmaster)  . The green light flashes during communication and the light is off when communication is over"<br>
     Page9 <br>
     1. Transmit Power notes removed "PMR446 only supports 0.5W Max, FRS 8-14Ch only supports 0.5W Max and Carrier Output Power <=0.5W PMR446 and <=1.0W/0.5W FRS" and manual now shows Carrier Output Power <=2W<br>
     2. Frequency range now listed as UHF:400-480MHZ (was shows as PMR446 and FRS before)<br>
@@ -106,7 +106,7 @@ Everything we know up to this point about the M11 Radio.  We tear it open, analy
 <tr><td><a href="https://www.youtube.com/watch?v=o2LUXxH6YpM&t=2127s">Chirp Programming Software<br>[35:27]</a></td>
 </tr><td><a href="https://www.youtube.com/watch?v=o2LUXxH6YpM&t=2344s">FCC Device 2A4FBM11 Filing<br>[39:04]</a></td>
   <td> Fcc: https://apps.fcc.gov/oetcf/eas/reports/GenericSearch.cfm  <br>
-    Search: Grantee Code: 2A4FB  or Applicant Name: Guangzhou TID  Show: 100, [SEARCH]<br>
+    Search: FRN: <A href="https://apps.fcc.gov/cores/searchDetail.do?frn=0031948888&csfrToken=">0031948888</A>a> Grantee Code: 2A4FB  or Applicant Name: Guangzhou TID  Show: 100, [SEARCH]<br>
 	has 37 results as of 2026-02-06<br>
     https://fccid.io/2A4FBM11 shows 2 versions of report <br>
     <br>
@@ -135,14 +135,16 @@ Everything we know up to this point about the M11 Radio.  We tear it open, analy
 	<a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/User-manual-7139569-1.pdf">16. User manual</a><br>
     
     Fcc report review:<br>
-1. Firmware as 1.0, shipping is 0.9.4<br>
+1. Firmware (software) listed as V1.0, shipping is 0.9.4 <a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/test-Report-7139590-2.pdf">(13)</a><br>
 2. Board rev listed as 1.2 in some places, shipping is 1.4<br>
-3. Battery listed as T-20C 1500mAh, shipping is BP-11 1000mAh<br>
-4. Label mark listed asFCC ID: 2A4FBM11, shipping is 2A-TDM11 <a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/label-and-location-7139566-1.pdf">(7)</a><br>
+3. Battery listed as T-20C 1500mAh, shipping is BP-11 1000mAh <a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/test-Report-7139590-2.pdf">(13)</a><br>
+4. Label mark listed as FCC ID: 2A4FBM11 in <a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/label-and-location-7139566-1.pdf">(7)</a>, currently shipping is <a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/TD-M11%20Label.jpg">FCC ID: 2A-TDM11</a> <br>
 5. Internal photos do not show IP67 sealing, shipping unit has ip67 sealing compound (white) for microphone and speaker <a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/Internal-Photos-7139568-1.pdf">(8)</a><br>
 6. US agent <a href="https://www.fccusagent.com/about/">Tim Payne </a> @ FCCUSAgent.com identified <a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/USA-agent-lette-7139576-1.pdf">(2)</a> <br>
 7. test equipment <b>Eeatsheep</b> 6dB attenuator listed but not used - is that a real Manufacturer? <a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/test-Report-7139590-2.pdf">(13)</a><br>
-8. Allows versions TD-M12, TD-M13. no record of TD-M12 ever shipping. TD-M13 is now offered as a POC radio, a completely different radio but supposedly named in this certificate. <a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/Difference-Description-7139572-1.pdf">(3)</a><br>
+8. Allows versions TD-M12, TD-M13. no record of TD-M12 ever shipping. TD-M13 is now offered as a POC radio, a completely different radio but supposedly named in this certificate. <a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/Difference-Description-7139572-1.pdf">(3)</a>and <a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/test-Report-7139590-2.pdf">(13)</a><br>
+9. Emission bandwidth listed as 10.52Khz, standard allows 12.5kHz, manual lists bandwidth is 16khz <a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/test-Report-7139590-2.pdf">(13)</a>
+10. Test report shows unit never went over 1W ERP, marketing fluff now shows in manual <=2W, but unit is still likely a 1W max unit <a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/test-Report-7139590-2.pdf">(13)</a>
 </td>
 <tr><td><a href="https://www.youtube.com/watch?v=o2LUXxH6YpM&t=3701s">Radio versions/Accessories<br>[1:01:41] </a></td>
 </tr>
