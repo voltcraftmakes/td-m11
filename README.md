@@ -1,4 +1,5 @@
 TIDradio TD-M11 FRS/GMRS/PMR446 radio<br>
+<br>
 This is detailed notes for the <a href="https://youtube.com/playlist?list=PLtvm4lCCHoKhjR_rtdxlchr7XDJ9G2VnH">VCmakes Youtube video series</a> tearing into this radio.
 
 # Videos
@@ -64,14 +65,37 @@ Everything we know up to this point about the M11 Radio.  We tear it open, analy
     <br>
   <b>Switch Metal Dome</b><br>
   <A href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/metal-dome-catalog.pdf">metal-dome-catalog.pdf</A></br>
-    
-  </td>
+    </td>
 </tr>
 <tr><td><a href="https://www.youtube.com/watch?v=o2LUXxH6YpM&t=920s">Radio Modes<br>[15:20]</a></td>
+<td>
+  <b>Radio Shortcuts</b> - set channel to 1,2,3,4,5,15 and hold a combination of [PTT], [CH+], [CH-] and power radio on, releasing keys after radio has boot triggers actions:<br><br>
+<b>CH1</b> Power on + [PTT] = Crack CTCSS tone, use [CH+]/[CH-] to select channel to crack, transmit with other radio, Crack successful after beep. Note:Radio will not match CTCSS frequency exactly it may be 1-2hz or more off.<br>
+<b>CH2</b> Power on + [PTT] = Clone Radio, Transmit<br>
+<b>CH3</b> Power on + [PTT] = Clone Radio, Receive (this radio has memory overwritten)<br>
+<b>CH4</b> Power on + [PTT] = Clone Radio, Transmit (undocumented)<br>
+<b>CH5</b> Power on + [PTT] = Copy Radio, Receive (this radio has memory overwritten) (undocumented)<br>
+<b>CH15</b> Power on + [PTT] + [CH+] = Voice Prompts, enable Chinese, need software to disable voice prompt after enabled<br>
+<b>CHx</b> Power on + [CH+] + [CH-] = Programming mode / TURN ON BLUETOOTH (undocumented, start from any channel)<br>
 </tr>
 <tr><td><a href="https://www.youtube.com/watch?v=o2LUXxH6YpM&t=1204s">Odmaster Bluetooth Programming<br>[20:04]</a></td>
-</tr>
+  <td>
+    <A href="https://web.odmaster.net/login">Odmaster TIDradio Web</A><br>
+    <a href="https://apps.apple.com/us/app/odmaster/id1512532413">Odmaster - Apple</a><br>
+    <a href="https://play.google.com/store/apps/details?id=com.tid.walkie&hl=en_US">Odmaster - Android</a><br>
+  </tr>
 <tr><td><a href="https://www.youtube.com/watch?v=o2LUXxH6YpM&t=1589s">Manual<br>[26:29]</a></td>
+  <td>New manual compared to one filed with FCC
+    Technical spec missing
+    Page3 LED Display graphic hard squished to bad ratio<br>
+    Page5 Icons for Battery charge status are better<br>
+    Page6 I have not seen the 'end of transmission tone' email me if you have one<br>
+    Page8 Bluetooth section completely rewritten "When the Bluetooth function is turned on, the icon displays and the red light turns on.  The green light is on after connecting through the cell phone APP (Odmaster)  . The green light flashes during communicatoni and the light is off when communication is over"<br>
+    
+    
+    
+    
+  </td>
 </tr>
 <tr><td><a href="https://www.youtube.com/watch?v=o2LUXxH6YpM&t=1641s">CPS Programming Software<br>[27:21]</a></td>
 </tr><td><a href="https://www.youtube.com/watch?v=o2LUXxH6YpM&t=2020s">Prolific Chipset driver fix<br>[33:40]</a></td>
