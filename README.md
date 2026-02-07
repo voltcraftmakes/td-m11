@@ -106,9 +106,9 @@ Everything we know up to this point about the M11 Radio.  We tear it open, analy
 <tr><td><a href="https://www.youtube.com/watch?v=o2LUXxH6YpM&t=2127s">Chirp Programming Software<br>[35:27]</a></td>
 </tr><td><a href="https://www.youtube.com/watch?v=o2LUXxH6YpM&t=2344s">FCC 2A4FBM11 Filing<br>[39:04]</a></td>
   <td> Fcc: https://apps.fcc.gov/oetcf/eas/reports/GenericSearch.cfm  <br>
-    Search: Grantee Code: 2A4FB  or Applicant Name: Guangzhou TID  has 37 results as of 2026-02-06
-    shows 2 versions of report: https://fccid.io/2A4FBM11
-    
+    Search: Grantee Code: 2A4FB  or Applicant Name: Guangzhou TID  Show: 100, [SEARCH] has 37 results as of 2026-02-06
+    shows 2 versions of report: https://fccid.io/2A4FBM11 <br>
+    <br>
     Fcc report review:<br>
 1. Firmware as 1.0, shipping is 0.9.4<br>
 2. Board rev listed as 1.2 in some places, shipping is 1.4<br>
