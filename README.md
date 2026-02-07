@@ -84,6 +84,7 @@ Everything we know up to this point about the M11 Radio.  We tear it open, analy
     <A href="https://web.odmaster.net/login">Odmaster TIDradio Web</A><br>
     <a href="https://apps.apple.com/us/app/odmaster/id1512532413">Odmaster - Apple</a><br>
     <a href="https://play.google.com/store/apps/details?id=com.tid.walkie&hl=en_US">Odmaster - Android</a><br>
+	  com0com for bluetooth in chirp
   </tr>
 <tr><td><a href="https://www.youtube.com/watch?v=o2LUXxH6YpM&t=1589s">Manual<br>[26:29]</a></td>
   <td>New manual compared to one filed with FCC<br>
@@ -114,35 +115,35 @@ Everything we know up to this point about the M11 Radio.  We tear it open, analy
     https://fccid.io/2A4FBM11 shows 2 versions of report <br>
     <br>
  	This list is the unique files on file at FCC after looking at 2 seperate repositories, each with two different versions.<br>
-	  <a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/Covered-List-and-Covered-Equipment-Letter-7139573-1.pdf">1. Covered List and Covered Equipment Letter TID 2024-02-03</a><br>
-	<a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/USA-agent-lette-7139576-1.pdf">2. USA agent TID 2024-02-03</a><br>
-	<a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/Difference-Description-7139572-1.pdf">3. Difference Description TID 2024-02-18</a><br>
-	<a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/Agent-Authorization-Letter-Templats-7139574-1.pdf">4. Agent Authorization Letter Templats TID 2024-02-19</a><br>
-	<a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/FCC-Short-Long-Term-Confidentiality-Request-7139575-1.pdf">5. FCC Short & Long Term Confidentiality Request 2024-02-03</a><br>
-	<a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/External-Photos-7139567-1.pdf">6. External Photos AGC </a><br>
-	<a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/label-and-location-7139566-1.pdf">7. Label and location</a><br>
-	<a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/Internal-Photos-7139568-1.pdf">8. Internal Photos AGC</a><br>
-	<a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/RF%20Exposure%20Info1-3.pdf">9. RF Exposure Info1 Swiss 2023-10-16 </a><br>
-	<a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/RF%20Exposure%20Info2-3.pdf">10. RF Exposure Info2 2023-05-26</a><br>
-	<a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/RF-Exposure-Info-7139589-2.pdf">11. SAR Test Report V1.0 AGC 2024-02-02</a><br>
+	  <a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/Covered-List-and-Covered-Equipment-Letter-7139573-1.pdf">(1) Covered List and Covered Equipment Letter TID 2024-02-03</a><br>
+	<a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/USA-agent-lette-7139576-1.pdf">(2) USA agent TID 2024-02-03</a><br>
+	<a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/Difference-Description-7139572-1.pdf">(3) Difference Description TID 2024-02-18</a><br>
+	<a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/Agent-Authorization-Letter-Templats-7139574-1.pdf">(4) Agent Authorization Letter Templats TID 2024-02-19</a><br>
+	<a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/FCC-Short-Long-Term-Confidentiality-Request-7139575-1.pdf">(5) FCC Short & Long Term Confidentiality Request 2024-02-03</a><br>
+	<a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/External-Photos-7139567-1.pdf">(6) External Photos AGC </a><br>
+	<a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/label-and-location-7139566-1.pdf">(7) Label and location</a><br>
+	<a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/Internal-Photos-7139568-1.pdf">(8) Internal Photos AGC</a><br>
+	<a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/RF%20Exposure%20Info1-3.pdf">(9) RF Exposure Info1 Swiss 2023-10-16 </a><br>
+	<a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/RF%20Exposure%20Info2-3.pdf">(10) RF Exposure Info2 2023-05-26</a><br>
+	<a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/RF-Exposure-Info-7139589-2.pdf">(11) SAR Test Report V1.0 AGC 2024-02-02</a><br>
 	Test1: IEEE Std. 1528:2013<br>
 	Test2: FCC 47 CFR Part 2(2.1093)<br>
 	Test3: IEEE Std C95.1 2005<br>
 	KDB 447498 D01 General RF Exposure Guidance V06<br>
 	KDB 865664 D01 SAR Measurement 100MHz to 6Ghz v01R04<br>
 	KDB 643646 D01 SAR Test for PTT Radios V01R03<br>
-	<a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/test-Report-7139570-1.pdf">12. FCC Test Report AGCTR-ER-FCC-SDOC V1.0 AGC 2024-02-01</a><br>
+	<a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/test-Report-7139570-1.pdf">(12) FCC Test Report AGCTR-ER-FCC-SDOC V1.0 AGC 2024-02-01</a><br>
 	Test1: FCC 47 CFR Part 15<br>
 	Test2: ANSI C63.4-2014<br>
-  <a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/test-Report-7139590-2.pdf">13. FCC Test Report2 AGCER-FCC-FRS-V1 AGC 2024-02-01 </a><br>
+  <a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/test-Report-7139590-2.pdf">(13) FCC Test Report2 AGCER-FCC-FRS-V1 AGC 2024-02-01 </a><br>
 	Test1:FCC 47 CFR Part 95<br>
 	Test2:FCC 47 CFR Part 2<br>
 	Test3:ANSI C63.26-2015<br>
 	Test4:ANSI/TIA-603-E-2016<br>
 	Test5:KDB 888861 D01 (Part 95 GMRS FRS V01)<br>
-	<a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/Test-Photos-7139577-1.pdf">14. Test Setup Photos1</a><br>
-  <a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/Test-Setup-Photos-7139591-2.pdf">15. Test Setup Photos2  </a><br>  
-	<a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/User-manual-7139569-1.pdf">16. User manual</a><br>
+	<a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/Test-Photos-7139577-1.pdf">(14) Test Setup Photos1</a><br>
+  <a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/Test-Setup-Photos-7139591-2.pdf">(15) Test Setup Photos2  </a><br>  
+	<a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/User-manual-7139569-1.pdf">(16) User manual</a><br>
 <br>    
 FCC report review:<br>
 1. Firmware (software) listed as V1.0, shipping is 0.9.4 <a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/RF-Exposure-Info-7139589-2.pdf">(11)</a> and <a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/test-Report-7139570-1.pdf">(12)</a> and <a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/test-Report-7139590-2.pdf">(13)</a><br>
@@ -155,7 +156,8 @@ FCC report review:<br>
 8. Allows versions TD-M12, TD-M13. no record of TD-M12 ever shipping. TD-M13 is now offered as a POC radio, a completely different radio but supposedly named in this certificate. <a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/Difference-Description-7139572-1.pdf">(3)</a>and <a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/RF-Exposure-Info-7139589-2.pdf">(11)</a> and <a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/test-Report-7139590-2.pdf">(13)</a><br>
 9. Emission bandwidth listed as 10.52Khz, standard allows 12.5kHz, manual lists bandwidth is 16khz <a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/test-Report-7139590-2.pdf">(13)</a><br>
 10. Test report shows unit never went over 1W ERP, marketing fluff now shows in manual <=2W, but unit is still likely a 1W max unit <a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/test-Report-7139590-2.pdf">(13)</a><br>
-11. User manual at FCC shows operating range 0-40C, test report says "normal conditions" 15-35C, extreme -20-50C, frequency error tested from -30-50C and new manual now shows operating temperature -20-60C <a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/test-Report-7139570-1.pdf">(12)</a> and <a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/User-manual-7139569-1.pdf">(16)</a><br><br>
+11. User manual at FCC shows operating range 0-40C, test report says "normal conditions" 15-35C, extreme -20-50C, frequency error tested from -30-50C and new manual now shows operating temperature -20-60C <a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/test-Report-7139570-1.pdf">(12)</a> and <a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/User-manual-7139569-1.pdf">(16)</a><br>
+12. <a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/Agent-Authorization-Letter-Templats-7139574-1.pdf">(4) Agent Authorization Letter Templats TID 2024-02-19</a> authorizes <a href="https://qai.org/">QAI Laboratories</a> as an agent from their Burnaby Canada office. I can't find evidence of any work being coordinated from this team but maybe it was easy to access as QAI also lists an office in Shanghai China.<br>
 <a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/EXIFMetaData.txt">EXIF Meta Data Analysis</a> of FCC files shows a few intersting things<br>
 	1. Sid Sanders listed as author in meta data <a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/Covered-List-and-Covered-Equipment-Letter-7139573-1.pdf">(1)</a> most likely <a href="https://www.linkedin.com/in/sid-sanders-5b273814/">retired engineer in 2018</a> who had started Timco Engineering, FCC Authorized Telecommmunications Certification Body (TCB) who is now <a href="https://www.gainesville.com/obituaries/pgai0626343">deceased.</a><br>
 	2. gretchen listed as author <a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/Difference-Description-7139572-1.pdf">(3)</a> there is extremely slim chance this is a template taken from <a href="https://en.wikipedia.org/wiki/Gretchen_Rubin">Gretchen Rubin</a>she served as a chief adviser to Federal Communications Commission Chairman Reed Hundt and Mass Media Bureau, Policy and Rules Division, but the timing puts it about 15 years too late, so very unlikely. <br>
