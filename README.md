@@ -102,8 +102,11 @@ Everything we know up to this point about the M11 Radio.  We tear it open, analy
     </td>
 </tr>
 <tr><td><a href="https://www.youtube.com/watch?v=o2LUXxH6YpM&t=1641s">CPS Programming Software<br>[27:21]</a></td>
+	<td>todo</td>
 </tr><td><a href="https://www.youtube.com/watch?v=o2LUXxH6YpM&t=2020s">Prolific Chipset driver fix<br>[33:40]</a></td>
+	<Td>todo</Td>
 <tr><td><a href="https://www.youtube.com/watch?v=o2LUXxH6YpM&t=2127s">Chirp Programming Software<br>[35:27]</a></td>
+	<td>todo</td>
 </tr><td><a href="https://www.youtube.com/watch?v=o2LUXxH6YpM&t=2344s">FCC Device 2A4FBM11 Filing<br>[39:04]</a></td>
   <td> Fcc: https://apps.fcc.gov/oetcf/eas/reports/GenericSearch.cfm  <br>
     Search: FRN: <A href="https://apps.fcc.gov/cores/searchDetail.do?frn=0031948888&csfrToken=">0031948888</A> Grantee Code: 2A4FB  or Applicant Name: Guangzhou TID  Show: 100, [SEARCH]<br>
@@ -154,9 +157,13 @@ FCC report review:<br>
 10. Test report shows unit never went over 1W ERP, marketing fluff now shows in manual <=2W, but unit is still likely a 1W max unit <a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/test-Report-7139590-2.pdf">(13)</a><br>
 11. User manual at FCC shows operating range 0-40C, test report says "normal conditions" 15-35C, extreme -20-50C, frequency error tested from -30-50C and new manual now shows operating temperature -20-60C <a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/test-Report-7139570-1.pdf">(12)</a> and <a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/User-manual-7139569-1.pdf">(16)</a><br><br>
 <a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/EXIFMetaData.txt">EXIF Meta Data Analysis</a> of FCC files shows a few intersting things<br>
-	1. Sid Sanders listed as author in meta data <a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/Covered-List-and-Covered-Equipment-Letter-7139573-1.pdf">(1)</a> most likely <a href="https://www.linkedin.com/in/sid-sanders-5b273814/">retired engineer in 2018</a> who had started Timco Engineering, FCC Authorized Telecommmunications Certification Body (TCB) who is now <a href="https://www.gainesville.com/obituaries/pgai0626343">deceased.</a>
+	1. Sid Sanders listed as author in meta data <a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/Covered-List-and-Covered-Equipment-Letter-7139573-1.pdf">(1)</a> most likely <a href="https://www.linkedin.com/in/sid-sanders-5b273814/">retired engineer in 2018</a> who had started Timco Engineering, FCC Authorized Telecommmunications Certification Body (TCB) who is now <a href="https://www.gainesville.com/obituaries/pgai0626343">deceased.</a><br>
+	2. gretchen listed as author <a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/Difference-Description-7139572-1.pdf">(3)</a><br>
+	3. Fiona Ffuellenbach listed as author <a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/FCC-Short-Long-Term-Confidentiality-Request-7139575-1.pdf">(5)</a><br>
+	4. Mirandu Lu listed as author <a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/USA-agent-lette-7139576-1.pdf">(2)</a><br>
 </td>
 <tr><td><a href="https://www.youtube.com/watch?v=o2LUXxH6YpM&t=3701s">Radio versions/Accessories<br>[1:01:41] </a></td>
+	<td>todo</td>
 </tr>
 </table>
 
