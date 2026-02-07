@@ -98,6 +98,7 @@ Everything we know up to this point about the M11 Radio.  We tear it open, analy
     4. Adds Wide 25KHZ channel spacing<br>
     5. Modulation Limiting adds W: <=5kHZ<br>
     6. Occupying Bandwidth is now 16kHz, was 11kHz<br>
+    Page 10 <B>REMOVED FCC DECLARATIONS</B>: Class B Part 15, (RED) 2014/53/EU, 0-40C <b>limited to 2000m max elevation</b> EN 50566:2017, EN IEC/IEEE 62209-1528:2021, EU 10g SAR results, battery disposal warning, do not mod for FCC cell reception.
     
     
     
