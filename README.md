@@ -138,10 +138,12 @@ Everything we know up to this point about the M11 Radio.  We tear it open, analy
 1. Firmware as 1.0, shipping is 0.9.4<br>
 2. Board rev listed as 1.2 in some places, shipping is 1.4<br>
 3. Battery listed as T-20C 1500mAh, shipping is BP-11 1000mAh<br>
-4. Label mark listed as 2A4FBM11, shipping is 2A-TDM11<br>
-5. Internal photos do not show IP67 sealing, shipping unit has ip67 sealing compound (white) for microphone and speaker<br>
-6. version 1 of report appears for EU market, Version 2 for FCC?<br>
-7. US agent identified<br></td>
+4. Label mark listed asFCC ID: 2A4FBM11, shipping is 2A-TDM11 <a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/label-and-location-7139566-1.pdf">(7)</a><br>
+5. Internal photos do not show IP67 sealing, shipping unit has ip67 sealing compound (white) for microphone and speaker <a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/Internal-Photos-7139568-1.pdf">(8)</a><br>
+6. US agent <a href="https://www.fccusagent.com/about/">Tim Payne </a> @ FCCUSAgent.com identified <a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/USA-agent-lette-7139576-1.pdf">(2)</a> <br>
+7. test equipment <b>Eeatsheep</b> 6dB attenuator listed but not used - is that a real Manufacturer? <a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/test-Report-7139590-2.pdf">(13)</a><br>
+8. Allows versions TD-M12, TD-M13. no record of TD-M12 ever shipping. TD-M13 is now offered as a POC radio, a completely different radio but supposedly named in this certificate. <a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/Difference-Description-7139572-1.pdf">(3)</a><br>
+</td>
 <tr><td><a href="https://www.youtube.com/watch?v=o2LUXxH6YpM&t=3701s">Radio versions/Accessories<br>[1:01:41] </a></td>
 </tr>
 </table>
