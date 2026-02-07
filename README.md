@@ -109,9 +109,16 @@ c.<a href="http://192.168.0.130:8888">192.168.0.130:8888</a><br>
     </td>
 </tr>
 <tr><td><a href="https://www.youtube.com/watch?v=o2LUXxH6YpM&t=1641s">CPS Programming Software<br>[27:21]</a></td>
-	<td><a href="https://walkietalkiesoftware.com/portal/index/software_detail/id/73.html">downoad page from tidradio is now redirect to walkietalkiesoftware.com</a> and you can create an account without email activation by using code: 751268 this lists coresondance from zuhuilv617@gmail.com<br>
+	<td>
+	<img src="https://github.com/voltcraftmakes/td-m11/blob/main/Programming/M11-22-splash.jpg" width=150><br>
+		<a href="https://walkietalkiesoftware.com/portal/index/software_detail/id/73.html">download page from tidradio is now redirect to walkietalkiesoftware.com</a> and you can create an account without email activation by using code: 751268 this lists coresondance from zuhuilv617@gmail.com<br>
 	Direct download link for CPS is <a href="https://walkietalkiesoftware.com/upload/tid/20241025/e25f9339c96c40c4efc3f289ee935012.zip">https://walkietalkiesoftware.com/upload/tid/20241025/e25f9339c96c40c4efc3f289ee935012.zip</a><br>
-	TD-M11-CPS(22CH)-en(1).exe is unsigned, so windows may give you a security warning.
+	Direct download from this github is here <a href=https://github.com/voltcraftmakes/td-m11/blob/main/Programming/M11-22.zip">M11-22.zip TD-M11-22Program Soft V1.0.0.0.2602071545</a><br>
+	1. TD-M11-CPS(22CH)-en(1).exe is unsigned, so windows may give you a security warning.<br>
+	2. this tool is the only one that currently can set and unset a password to the radio<br>
+	3. this tool requires a programming cable like <a href="https://tidradio.com/products/tidradio-td-ch340-driver-usb-programming-cable">TD-CH340 Kenwood 2-pin Walkie-Talkie Driver USB Programming Cable $3</a> but any cable designed for boufeng should also work - note prolific chipset drive issue resolved below<br>
+	
+	
 	
 		
 	</td>
