@@ -159,7 +159,7 @@ FCC report review:<br>
 <a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/EXIFMetaData.txt">EXIF Meta Data Analysis</a> of FCC files shows a few intersting things<br>
 	1. Sid Sanders listed as author in meta data <a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/Covered-List-and-Covered-Equipment-Letter-7139573-1.pdf">(1)</a> most likely <a href="https://www.linkedin.com/in/sid-sanders-5b273814/">retired engineer in 2018</a> who had started Timco Engineering, FCC Authorized Telecommmunications Certification Body (TCB) who is now <a href="https://www.gainesville.com/obituaries/pgai0626343">deceased.</a><br>
 	2. gretchen listed as author <a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/Difference-Description-7139572-1.pdf">(3)</a><br>
-	3. Fiona Ffuellenbach listed as author <a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/FCC-Short-Long-Term-Confidentiality-Request-7139575-1.pdf">(5)</a><br>
+	3. Fiona Ffuellenbach listed as author <a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/FCC-Short-Long-Term-Confidentiality-Request-7139575-1.pdf">(5)</a> is a <a href="https://www.linkedin.com/in/fiona-fuellenbach-b10200a7/"> Sr. Account Executive</a> at <A href="https://micomlabs.com/">MicomLabs.<br>
 	4. Mirandu Lu listed as author <a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/USA-agent-lette-7139576-1.pdf">(2)</a><br>
 </td>
 <tr><td><a href="https://www.youtube.com/watch?v=o2LUXxH6YpM&t=3701s">Radio versions/Accessories<br>[1:01:41] </a></td>
