@@ -139,8 +139,8 @@ Everything we know up to this point about the M11 Radio.  We tear it open, analy
 	<a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/Test-Photos-7139577-1.pdf">14. Test Setup Photos1</a><br>
   <a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/Test-Setup-Photos-7139591-2.pdf">15. Test Setup Photos2  </a><br>  
 	<a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/User-manual-7139569-1.pdf">16. User manual</a><br>
-    
-    Fcc report review:<br>
+<br>    
+FCC report review:<br>
 1. Firmware (software) listed as V1.0, shipping is 0.9.4 <a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/RF-Exposure-Info-7139589-2.pdf">(11)</a> and <a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/test-Report-7139570-1.pdf">(12)</a> and <a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/test-Report-7139590-2.pdf">(13)</a><br>
 2. Board rev listed shown 1.2 in some places, shipping is 1.4 <a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/Internal-Photos-7139568-1.pdf">(8)</a> and <a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/RF-Exposure-Info-7139589-2.pdf">(11)</a><br>
 3. Battery listed as T-20C 1500mAh, shipping is BP-11 1000mAh <a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/RF-Exposure-Info-7139589-2.pdf">(11)</a> and <a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/test-Report-7139570-1.pdf">(12)</a> and <a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/test-Report-7139590-2.pdf">(13)</a><br>
@@ -150,8 +150,10 @@ Everything we know up to this point about the M11 Radio.  We tear it open, analy
 7. test equipment <b>Eeatsheep</b> 6dB attenuator listed but not used - is that a real Manufacturer? <a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/test-Report-7139590-2.pdf">(13)</a><br>
 8. Allows versions TD-M12, TD-M13. no record of TD-M12 ever shipping. TD-M13 is now offered as a POC radio, a completely different radio but supposedly named in this certificate. <a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/Difference-Description-7139572-1.pdf">(3)</a>and <a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/RF-Exposure-Info-7139589-2.pdf">(11)</a> and <a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/test-Report-7139590-2.pdf">(13)</a><br>
 9. Emission bandwidth listed as 10.52Khz, standard allows 12.5kHz, manual lists bandwidth is 16khz <a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/test-Report-7139590-2.pdf">(13)</a>
-10. Test report shows unit never went over 1W ERP, marketing fluff now shows in manual <=2W, but unit is still likely a 1W max unit <a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/test-Report-7139590-2.pdf">(13)</a>
-11. User manual at FCC shows operating range 0-40C, test report says "normal conditions" 15-35C, extreme -20-50C, frequency error tested from -30-50C and new manual now shows operating temperature -20-60C <a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/test-Report-7139570-1.pdf">(12)</a> and <a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/User-manual-7139569-1.pdf">(16)</a>
+10. Test report shows unit never went over 1W ERP, marketing fluff now shows in manual <=2W, but unit is still likely a 1W max unit <a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/test-Report-7139590-2.pdf">(13)</a><br>
+11. User manual at FCC shows operating range 0-40C, test report says "normal conditions" 15-35C, extreme -20-50C, frequency error tested from -30-50C and new manual now shows operating temperature -20-60C <a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/test-Report-7139570-1.pdf">(12)</a> and <a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/User-manual-7139569-1.pdf">(16)</a><br><br>
+<a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/EXIFMetaData.txt">EXIF Meta Data Analysis</a> of FCC files shows a few intersting things<br>
+	1. Sid Sanders listed as author in meta data <a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/Covered-List-and-Covered-Equipment-Letter-7139573-1.pdf">(1)</a> most likely <a href="https://www.linkedin.com/in/sid-sanders-5b273814/">retired engineer in 2018</a> who had started Timco Engineering, FCC Authorized Telecommmunications Certification Body (TCB) who is now <a href="https://www.gainesville.com/obituaries/pgai0626343">deceased.</a>
 </td>
 <tr><td><a href="https://www.youtube.com/watch?v=o2LUXxH6YpM&t=3701s">Radio versions/Accessories<br>[1:01:41] </a></td>
 </tr>
