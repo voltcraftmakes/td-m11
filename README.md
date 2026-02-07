@@ -106,11 +106,12 @@ Everything we know up to this point about the M11 Radio.  We tear it open, analy
 <tr><td><a href="https://www.youtube.com/watch?v=o2LUXxH6YpM&t=2127s">Chirp Programming Software<br>[35:27]</a></td>
 </tr><td><a href="https://www.youtube.com/watch?v=o2LUXxH6YpM&t=2344s">FCC Device 2A4FBM11 Filing<br>[39:04]</a></td>
   <td> Fcc: https://apps.fcc.gov/oetcf/eas/reports/GenericSearch.cfm  <br>
-    Search: FRN: <A href="https://apps.fcc.gov/cores/searchDetail.do?frn=0031948888&csfrToken=">0031948888</A>a> Grantee Code: 2A4FB  or Applicant Name: Guangzhou TID  Show: 100, [SEARCH]<br>
+    Search: FRN: <A href="https://apps.fcc.gov/cores/searchDetail.do?frn=0031948888&csfrToken=">0031948888</A> Grantee Code: 2A4FB  or Applicant Name: Guangzhou TID  Show: 100, [SEARCH]<br>
 	has 37 results as of 2026-02-06<br>
     https://fccid.io/2A4FBM11 shows 2 versions of report <br>
     <br>
- 	<a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/Covered-List-and-Covered-Equipment-Letter-7139573-1.pdf">1. Covered List and Covered Equipment Letter TID 2024-02-03</a><br>
+ 	This list is the unique files on file at FCC after looking at 2 seperate repositories, each with two different versions.<br>
+	  <a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/Covered-List-and-Covered-Equipment-Letter-7139573-1.pdf">1. Covered List and Covered Equipment Letter TID 2024-02-03</a><br>
 	<a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/USA-agent-lette-7139576-1.pdf">2. USA agent TID 2024-02-03</a><br>
 	<a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/Difference-Description-7139572-1.pdf">3. Difference Description TID 2024-02-18</a><br>
 	<a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/Agent-Authorization-Letter-Templats-7139574-1.pdf">4. Agent Authorization Letter Templats TID 2024-02-19</a><br>
