@@ -81,10 +81,16 @@ Everything we know up to this point about the M11 Radio.  We tear it open, analy
 </tr>
 <tr><td><a href="https://www.youtube.com/watch?v=o2LUXxH6YpM&t=1204s">Odmaster Bluetooth Programming<br>[20:04]</a></td>
   <td>
-    <A href="https://web.odmaster.net/login">Odmaster TIDradio Web</A><br>
+    <a href="https://www.youtube.com/watch?v=AEu1nDpHZSI">Tidradio Youtube Odmaster instruction</a><br>
+	<A href="https://web.odmaster.net/login">Odmaster TIDradio Web</A><br>
     <a href="https://apps.apple.com/us/app/odmaster/id1512532413">Odmaster - Apple</a><br>
     <a href="https://play.google.com/store/apps/details?id=com.tid.walkie&hl=en_US">Odmaster - Android</a><br>
-	  com0com for bluetooth in chirp
+	1. Does not work without an active internet connection (Cellular or Wifi) which makes it extremely annoying to try and program a radio when off grid<br>
+	2. tripple tap graphic on start gives 3 network choices: which respond with "Hello,tid-spring-boot-starter !!!" when you directly connnect to them indicating it may be based on <a href="https://github.com/spring-projects/spring-boot">spring-boot</a><br>
+	a. <a href="http://47.106.64.42:8888">47.106.64.42:8888</a><br>
+b.<a href="http://odmaster.tid-china.com">odmaster.tid-china.com</a><br>
+c.<a href="http://192.168.0.130:8888">192.168.0.130:8888</a><br>
+	 
   </tr>
 <tr><td><a href="https://www.youtube.com/watch?v=o2LUXxH6YpM&t=1589s">Manual<br>[26:29]</a></td>
   <td>New manual compared to one filed with FCC<br>
@@ -107,7 +113,9 @@ Everything we know up to this point about the M11 Radio.  We tear it open, analy
 </tr><td><a href="https://www.youtube.com/watch?v=o2LUXxH6YpM&t=2020s">Prolific Chipset driver fix<br>[33:40]</a></td>
 	<Td>todo</Td>
 <tr><td><a href="https://www.youtube.com/watch?v=o2LUXxH6YpM&t=2127s">Chirp Programming Software<br>[35:27]</a></td>
-	<td>todo</td>
+	<td>todo
+		 com0com for bluetooth in chirp
+	</td>
 </tr><td><a href="https://www.youtube.com/watch?v=o2LUXxH6YpM&t=2344s">FCC Device 2A4FBM11 Filing<br>[39:04]</a></td>
   <td> Fcc: https://apps.fcc.gov/oetcf/eas/reports/GenericSearch.cfm  <br>
     Search: FRN: <A href="https://apps.fcc.gov/cores/searchDetail.do?frn=0031948888&csfrToken=">0031948888</A> Grantee Code: 2A4FB  or Applicant Name: Guangzhou TID  Show: 100, [SEARCH]<br>
