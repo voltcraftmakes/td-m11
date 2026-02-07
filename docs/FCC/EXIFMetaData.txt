@@ -1,0 +1,1452 @@
+From: https://sourceforge.net/projects/exiftool/
+exiftool.exe *.pdf > me.txt
+This file is the result of all versions of files to see if there is anything interesting missed in exif data
+
+
+======== Agent Authorization Letter Templats-3.pdf
+ExifTool Version Number         : 13.49
+File Name                       : Agent Authorization Letter Templats-3.pdf
+Directory                       : .
+File Size                       : 413 kB
+Zone Identifier                 : Exists
+File Modification Date/Time     : 2026:02:06 17:45:22-08:00
+File Access Date/Time           : 2026:02:06 22:04:00-08:00
+File Creation Date/Time         : 2026:02:06 22:03:41-08:00
+File Permissions                : -rw-rw-rw-
+File Type                       : PDF
+File Type Extension             : pdf
+MIME Type                       : application/pdf
+PDF Version                     : 1.5
+Linearized                      : No
+Page Count                      : 1
+Language                        : zh-CN
+Tagged PDF                      : Yes
+Author                          : jc-fy-rzb-nyuy
+Creator                         : Microsoft® Word 2010
+Create Date                     : 2024:02:19 17:13:35+08:00
+Modify Date                     : 2024:02:19 17:13:35+08:00
+Producer                        : Microsoft® Word 2010
+======== Agent Authorization Letter Templats-4.pdf
+ExifTool Version Number         : 13.49
+File Name                       : Agent Authorization Letter Templats-4.pdf
+Directory                       : .
+File Size                       : 413 kB
+Zone Identifier                 : Exists
+File Modification Date/Time     : 2026:02:06 17:49:10-08:00
+File Access Date/Time           : 2026:02:06 22:04:00-08:00
+File Creation Date/Time         : 2026:02:06 22:03:41-08:00
+File Permissions                : -rw-rw-rw-
+File Type                       : PDF
+File Type Extension             : pdf
+MIME Type                       : application/pdf
+PDF Version                     : 1.5
+Linearized                      : No
+Page Count                      : 1
+Language                        : zh-CN
+Tagged PDF                      : Yes
+Author                          : jc-fy-rzb-nyuy
+Creator                         : Microsoft® Word 2010
+Create Date                     : 2024:02:19 17:13:35+08:00
+Modify Date                     : 2024:02:19 17:13:35+08:00
+Producer                        : Microsoft® Word 2010
+======== Agent-Authorization-Letter-Templats-7139574-1.pdf
+ExifTool Version Number         : 13.49
+File Name                       : Agent-Authorization-Letter-Templats-7139574-1.pdf
+Directory                       : .
+File Size                       : 413 kB
+Zone Identifier                 : Exists
+File Modification Date/Time     : 2026:02:06 17:17:48-08:00
+File Access Date/Time           : 2026:02:06 22:04:00-08:00
+File Creation Date/Time         : 2026:02:06 22:03:42-08:00
+File Permissions                : -rw-rw-rw-
+File Type                       : PDF
+File Type Extension             : pdf
+MIME Type                       : application/pdf
+PDF Version                     : 1.5
+Linearized                      : No
+Page Count                      : 1
+Language                        : zh-CN
+Tagged PDF                      : Yes
+Author                          : jc-fy-rzb-nyuy
+Creator                         : Microsoft® Word 2010
+Create Date                     : 2024:02:19 17:13:35+08:00
+Modify Date                     : 2024:02:19 17:13:35+08:00
+Producer                        : Microsoft® Word 2010
+======== Agent-Authorization-Letter-Templats-7139594-2.pdf
+ExifTool Version Number         : 13.49
+File Name                       : Agent-Authorization-Letter-Templats-7139594-2.pdf
+Directory                       : .
+File Size                       : 413 kB
+Zone Identifier                 : Exists
+File Modification Date/Time     : 2026:02:06 17:20:37-08:00
+File Access Date/Time           : 2026:02:06 22:04:00-08:00
+File Creation Date/Time         : 2026:02:06 22:03:42-08:00
+File Permissions                : -rw-rw-rw-
+File Type                       : PDF
+File Type Extension             : pdf
+MIME Type                       : application/pdf
+PDF Version                     : 1.5
+Linearized                      : No
+Page Count                      : 1
+Language                        : zh-CN
+Tagged PDF                      : Yes
+Author                          : jc-fy-rzb-nyuy
+Creator                         : Microsoft® Word 2010
+Create Date                     : 2024:02:19 17:13:35+08:00
+Modify Date                     : 2024:02:19 17:13:35+08:00
+Producer                        : Microsoft® Word 2010
+======== Covered List and Covered Equipment Letter-3.pdf
+ExifTool Version Number         : 13.49
+File Name                       : Covered List and Covered Equipment Letter-3.pdf
+Directory                       : .
+File Size                       : 424 kB
+Zone Identifier                 : Exists
+File Modification Date/Time     : 2026:02:06 17:43:56-08:00
+File Access Date/Time           : 2026:02:06 22:04:00-08:00
+File Creation Date/Time         : 2026:02:06 22:03:42-08:00
+File Permissions                : -rw-rw-rw-
+File Type                       : PDF
+File Type Extension             : pdf
+MIME Type                       : application/pdf
+PDF Version                     : 1.5
+Linearized                      : No
+Page Count                      : 2
+Language                        : zh-CN
+Tagged PDF                      : Yes
+Title                           : (APPLICANT’S LETTERHEAD)
+Author                          : Sid Sanders
+Creator                         : Microsoft® Word 2010
+Create Date                     : 2024:02:19 17:11:41+08:00
+Modify Date                     : 2024:02:19 17:11:41+08:00
+Producer                        : Microsoft® Word 2010
+======== Covered List and Covered Equipment Letter-4.pdf
+ExifTool Version Number         : 13.49
+File Name                       : Covered List and Covered Equipment Letter-4.pdf
+Directory                       : .
+File Size                       : 424 kB
+Zone Identifier                 : Exists
+File Modification Date/Time     : 2026:02:06 17:48:21-08:00
+File Access Date/Time           : 2026:02:06 22:04:00-08:00
+File Creation Date/Time         : 2026:02:06 22:03:42-08:00
+File Permissions                : -rw-rw-rw-
+File Type                       : PDF
+File Type Extension             : pdf
+MIME Type                       : application/pdf
+PDF Version                     : 1.5
+Linearized                      : No
+Page Count                      : 2
+Language                        : zh-CN
+Tagged PDF                      : Yes
+Title                           : (APPLICANT’S LETTERHEAD)
+Author                          : Sid Sanders
+Creator                         : Microsoft® Word 2010
+Create Date                     : 2024:02:19 17:11:41+08:00
+Modify Date                     : 2024:02:19 17:11:41+08:00
+Producer                        : Microsoft® Word 2010
+======== Covered-List-and-Covered-Equipment-Letter-7139573-1.pdf
+ExifTool Version Number         : 13.49
+File Name                       : Covered-List-and-Covered-Equipment-Letter-7139573-1.pdf
+Directory                       : .
+File Size                       : 424 kB
+Zone Identifier                 : Exists
+File Modification Date/Time     : 2026:02:06 17:17:31-08:00
+File Access Date/Time           : 2026:02:06 22:04:00-08:00
+File Creation Date/Time         : 2026:02:06 22:03:42-08:00
+File Permissions                : -rw-rw-rw-
+File Type                       : PDF
+File Type Extension             : pdf
+MIME Type                       : application/pdf
+PDF Version                     : 1.5
+Linearized                      : No
+Page Count                      : 2
+Language                        : zh-CN
+Tagged PDF                      : Yes
+Title                           : (APPLICANT’S LETTERHEAD)
+Author                          : Sid Sanders
+Creator                         : Microsoft® Word 2010
+Create Date                     : 2024:02:19 17:11:41+08:00
+Modify Date                     : 2024:02:19 17:11:41+08:00
+Producer                        : Microsoft® Word 2010
+======== Covered-List-and-Covered-Equipment-Letter-7139593-2.pdf
+ExifTool Version Number         : 13.49
+File Name                       : Covered-List-and-Covered-Equipment-Letter-7139593-2.pdf
+Directory                       : .
+File Size                       : 424 kB
+Zone Identifier                 : Exists
+File Modification Date/Time     : 2026:02:06 17:20:53-08:00
+File Access Date/Time           : 2026:02:06 22:04:00-08:00
+File Creation Date/Time         : 2026:02:06 22:03:42-08:00
+File Permissions                : -rw-rw-rw-
+File Type                       : PDF
+File Type Extension             : pdf
+MIME Type                       : application/pdf
+PDF Version                     : 1.5
+Linearized                      : No
+Page Count                      : 2
+Language                        : zh-CN
+Tagged PDF                      : Yes
+Title                           : (APPLICANT’S LETTERHEAD)
+Author                          : Sid Sanders
+Creator                         : Microsoft® Word 2010
+Create Date                     : 2024:02:19 17:11:41+08:00
+Modify Date                     : 2024:02:19 17:11:41+08:00
+Producer                        : Microsoft® Word 2010
+======== Difference Description-3.pdf
+ExifTool Version Number         : 13.49
+File Name                       : Difference Description-3.pdf
+Directory                       : .
+File Size                       : 320 kB
+Zone Identifier                 : Exists
+File Modification Date/Time     : 2026:02:06 17:45:43-08:00
+File Access Date/Time           : 2026:02:06 22:04:00-08:00
+File Creation Date/Time         : 2026:02:06 22:03:42-08:00
+File Permissions                : -rw-rw-rw-
+File Type                       : PDF
+File Type Extension             : pdf
+MIME Type                       : application/pdf
+PDF Version                     : 1.5
+Linearized                      : No
+Page Count                      : 1
+Language                        : zh-CN
+Tagged PDF                      : Yes
+Title                           : Date
+Author                          : gretchen
+Creator                         : Microsoft® Word 2010
+Create Date                     : 2024:02:19 17:05:11+08:00
+Modify Date                     : 2024:02:19 17:05:11+08:00
+Producer                        : Microsoft® Word 2010
+======== Difference Description-4.pdf
+ExifTool Version Number         : 13.49
+File Name                       : Difference Description-4.pdf
+Directory                       : .
+File Size                       : 320 kB
+Zone Identifier                 : Exists
+File Modification Date/Time     : 2026:02:06 17:48:55-08:00
+File Access Date/Time           : 2026:02:06 22:04:00-08:00
+File Creation Date/Time         : 2026:02:06 22:03:42-08:00
+File Permissions                : -rw-rw-rw-
+File Type                       : PDF
+File Type Extension             : pdf
+MIME Type                       : application/pdf
+PDF Version                     : 1.5
+Linearized                      : No
+Page Count                      : 1
+Language                        : zh-CN
+Tagged PDF                      : Yes
+Title                           : Date
+Author                          : gretchen
+Creator                         : Microsoft® Word 2010
+Create Date                     : 2024:02:19 17:05:11+08:00
+Modify Date                     : 2024:02:19 17:05:11+08:00
+Producer                        : Microsoft® Word 2010
+======== Difference-Description-7139572-1.pdf
+ExifTool Version Number         : 13.49
+File Name                       : Difference-Description-7139572-1.pdf
+Directory                       : .
+File Size                       : 320 kB
+Zone Identifier                 : Exists
+File Modification Date/Time     : 2026:02:06 17:17:10-08:00
+File Access Date/Time           : 2026:02:06 22:04:00-08:00
+File Creation Date/Time         : 2026:02:06 22:03:42-08:00
+File Permissions                : -rw-rw-rw-
+File Type                       : PDF
+File Type Extension             : pdf
+MIME Type                       : application/pdf
+PDF Version                     : 1.5
+Linearized                      : No
+Page Count                      : 1
+Language                        : zh-CN
+Tagged PDF                      : Yes
+Title                           : Date
+Author                          : gretchen
+Creator                         : Microsoft® Word 2010
+Create Date                     : 2024:02:19 17:05:11+08:00
+Modify Date                     : 2024:02:19 17:05:11+08:00
+Producer                        : Microsoft® Word 2010
+======== Difference-Description-7139592-2.pdf
+ExifTool Version Number         : 13.49
+File Name                       : Difference-Description-7139592-2.pdf
+Directory                       : .
+File Size                       : 320 kB
+Zone Identifier                 : Exists
+File Modification Date/Time     : 2026:02:06 17:21:10-08:00
+File Access Date/Time           : 2026:02:06 22:04:00-08:00
+File Creation Date/Time         : 2026:02:06 22:03:42-08:00
+File Permissions                : -rw-rw-rw-
+File Type                       : PDF
+File Type Extension             : pdf
+MIME Type                       : application/pdf
+PDF Version                     : 1.5
+Linearized                      : No
+Page Count                      : 1
+Language                        : zh-CN
+Tagged PDF                      : Yes
+Title                           : Date
+Author                          : gretchen
+Creator                         : Microsoft® Word 2010
+Create Date                     : 2024:02:19 17:05:11+08:00
+Modify Date                     : 2024:02:19 17:05:11+08:00
+Producer                        : Microsoft® Word 2010
+======== External Photos-3.pdf
+ExifTool Version Number         : 13.49
+File Name                       : External Photos-3.pdf
+Directory                       : .
+File Size                       : 1483 kB
+Zone Identifier                 : Exists
+File Modification Date/Time     : 2026:02:06 17:46:20-08:00
+File Access Date/Time           : 2026:02:06 22:04:00-08:00
+File Creation Date/Time         : 2026:02:06 22:03:42-08:00
+File Permissions                : -rw-rw-rw-
+File Type                       : PDF
+File Type Extension             : pdf
+MIME Type                       : application/pdf
+Linearized                      : No
+Encryption                      : Standard V4.4 (128-bit)
+User Access                     : Print, Print high-res
+Page Count                      : 4
+Language                        : zh-CN
+Tagged PDF                      : Yes
+Has XFA                         : No
+Signing Reason                  : 文档加密保护
+Signing Location                : 中国
+Signer Contact Info             : 
+Signing Date                    : 2024:02:19 17:30:27+08:00
+Modification Permissions        : Fill forms, Create page templates, Sign
+PDF Version                     : 1.5
+Author                          : Administrator
+Creator                         : Microsoft® Word 2010
+Create Date                     : 2024:02:19 17:30:34+08:00
+Modify Date                     : 2024:02:19 17:30:27+08:00
+Producer                        : Microsoft? Word 2010; modified using iText? 5.5.10 ?2000-2015 iText Group NV (AGPL-version)
+======== External Photos-4.pdf
+ExifTool Version Number         : 13.49
+File Name                       : External Photos-4.pdf
+Directory                       : .
+File Size                       : 1483 kB
+Zone Identifier                 : Exists
+File Modification Date/Time     : 2026:02:06 17:49:48-08:00
+File Access Date/Time           : 2026:02:06 22:04:00-08:00
+File Creation Date/Time         : 2026:02:06 22:03:42-08:00
+File Permissions                : -rw-rw-rw-
+File Type                       : PDF
+File Type Extension             : pdf
+MIME Type                       : application/pdf
+Linearized                      : No
+Encryption                      : Standard V4.4 (128-bit)
+User Access                     : Print, Print high-res
+Page Count                      : 4
+Language                        : zh-CN
+Tagged PDF                      : Yes
+Has XFA                         : No
+Signing Reason                  : 文档加密保护
+Signing Location                : 中国
+Signer Contact Info             : 
+Signing Date                    : 2024:02:19 17:30:27+08:00
+Modification Permissions        : Fill forms, Create page templates, Sign
+PDF Version                     : 1.5
+Author                          : Administrator
+Creator                         : Microsoft® Word 2010
+Create Date                     : 2024:02:19 17:30:34+08:00
+Modify Date                     : 2024:02:19 17:30:27+08:00
+Producer                        : Microsoft? Word 2010; modified using iText? 5.5.10 ?2000-2015 iText Group NV (AGPL-version)
+======== External-Photos-7139567-1.pdf
+ExifTool Version Number         : 13.49
+File Name                       : External-Photos-7139567-1.pdf
+Directory                       : .
+File Size                       : 1483 kB
+Zone Identifier                 : Exists
+File Modification Date/Time     : 2026:02:06 17:14:50-08:00
+File Access Date/Time           : 2026:02:06 22:04:00-08:00
+File Creation Date/Time         : 2026:02:06 22:03:42-08:00
+File Permissions                : -rw-rw-rw-
+File Type                       : PDF
+File Type Extension             : pdf
+MIME Type                       : application/pdf
+Linearized                      : No
+Encryption                      : Standard V4.4 (128-bit)
+User Access                     : Print, Print high-res
+Page Count                      : 4
+Language                        : zh-CN
+Tagged PDF                      : Yes
+Has XFA                         : No
+Signing Reason                  : 文档加密保护
+Signing Location                : 中国
+Signer Contact Info             : 
+Signing Date                    : 2024:02:19 17:30:27+08:00
+Modification Permissions        : Fill forms, Create page templates, Sign
+PDF Version                     : 1.5
+Author                          : Administrator
+Creator                         : Microsoft® Word 2010
+Create Date                     : 2024:02:19 17:30:34+08:00
+Modify Date                     : 2024:02:19 17:30:27+08:00
+Producer                        : Microsoft? Word 2010; modified using iText? 5.5.10 ?2000-2015 iText Group NV (AGPL-version)
+======== External-Photos-7139584-2.pdf
+ExifTool Version Number         : 13.49
+File Name                       : External-Photos-7139584-2.pdf
+Directory                       : .
+File Size                       : 1483 kB
+Zone Identifier                 : Exists
+File Modification Date/Time     : 2026:02:06 17:23:17-08:00
+File Access Date/Time           : 2026:02:06 22:04:00-08:00
+File Creation Date/Time         : 2026:02:06 22:03:42-08:00
+File Permissions                : -rw-rw-rw-
+File Type                       : PDF
+File Type Extension             : pdf
+MIME Type                       : application/pdf
+Linearized                      : No
+Encryption                      : Standard V4.4 (128-bit)
+User Access                     : Print, Print high-res
+Page Count                      : 4
+Language                        : zh-CN
+Tagged PDF                      : Yes
+Has XFA                         : No
+Signing Reason                  : 文档加密保护
+Signing Location                : 中国
+Signer Contact Info             : 
+Signing Date                    : 2024:02:19 17:30:27+08:00
+Modification Permissions        : Fill forms, Create page templates, Sign
+PDF Version                     : 1.5
+Author                          : Administrator
+Creator                         : Microsoft® Word 2010
+Create Date                     : 2024:02:19 17:30:34+08:00
+Modify Date                     : 2024:02:19 17:30:27+08:00
+Producer                        : Microsoft? Word 2010; modified using iText? 5.5.10 ?2000-2015 iText Group NV (AGPL-version)
+======== FCC Short & Long Term Confidentiality Request-3.pdf
+ExifTool Version Number         : 13.49
+File Name                       : FCC Short & Long Term Confidentiality Request-3.pdf
+Directory                       : .
+File Size                       : 122 kB
+Zone Identifier                 : Exists
+File Modification Date/Time     : 2026:02:06 17:46:04-08:00
+File Access Date/Time           : 2026:02:06 22:04:00-08:00
+File Creation Date/Time         : 2026:02:06 22:03:42-08:00
+File Permissions                : -rw-rw-rw-
+File Type                       : PDF
+File Type Extension             : pdf
+MIME Type                       : application/pdf
+PDF Version                     : 1.5
+Linearized                      : No
+Page Count                      : 1
+Language                        : zh-CN
+Tagged PDF                      : Yes
+Title                           : <COMPANY HEADER>
+Author                          : Fiona Ffuellenbach
+Creator                         : Microsoft® Word 2010
+Create Date                     : 2024:02:19 17:14:06+08:00
+Modify Date                     : 2024:02:19 17:14:06+08:00
+Producer                        : Microsoft® Word 2010
+======== FCC Short & Long Term Confidentiality Request-4.pdf
+ExifTool Version Number         : 13.49
+File Name                       : FCC Short & Long Term Confidentiality Request-4.pdf
+Directory                       : .
+File Size                       : 122 kB
+Zone Identifier                 : Exists
+File Modification Date/Time     : 2026:02:06 17:49:27-08:00
+File Access Date/Time           : 2026:02:06 22:04:00-08:00
+File Creation Date/Time         : 2026:02:06 22:03:42-08:00
+File Permissions                : -rw-rw-rw-
+File Type                       : PDF
+File Type Extension             : pdf
+MIME Type                       : application/pdf
+PDF Version                     : 1.5
+Linearized                      : No
+Page Count                      : 1
+Language                        : zh-CN
+Tagged PDF                      : Yes
+Title                           : <COMPANY HEADER>
+Author                          : Fiona Ffuellenbach
+Creator                         : Microsoft® Word 2010
+Create Date                     : 2024:02:19 17:14:06+08:00
+Modify Date                     : 2024:02:19 17:14:06+08:00
+Producer                        : Microsoft® Word 2010
+======== FCC-Short-Long-Term-Confidentiality-Request-7139575-1.pdf
+ExifTool Version Number         : 13.49
+File Name                       : FCC-Short-Long-Term-Confidentiality-Request-7139575-1.pdf
+Directory                       : .
+File Size                       : 122 kB
+Zone Identifier                 : Exists
+File Modification Date/Time     : 2026:02:06 17:18:06-08:00
+File Access Date/Time           : 2026:02:06 22:04:00-08:00
+File Creation Date/Time         : 2026:02:06 22:03:42-08:00
+File Permissions                : -rw-rw-rw-
+File Type                       : PDF
+File Type Extension             : pdf
+MIME Type                       : application/pdf
+PDF Version                     : 1.5
+Linearized                      : No
+Page Count                      : 1
+Language                        : zh-CN
+Tagged PDF                      : Yes
+Title                           : <COMPANY HEADER>
+Author                          : Fiona Ffuellenbach
+Creator                         : Microsoft® Word 2010
+Create Date                     : 2024:02:19 17:14:06+08:00
+Modify Date                     : 2024:02:19 17:14:06+08:00
+Producer                        : Microsoft® Word 2010
+======== FCC-Short-Long-Term-Confidentiality-Request-7139596-2.pdf
+ExifTool Version Number         : 13.49
+File Name                       : FCC-Short-Long-Term-Confidentiality-Request-7139596-2.pdf
+Directory                       : .
+File Size                       : 122 kB
+Zone Identifier                 : Exists
+File Modification Date/Time     : 2026:02:06 17:19:59-08:00
+File Access Date/Time           : 2026:02:06 22:04:00-08:00
+File Creation Date/Time         : 2026:02:06 22:03:42-08:00
+File Permissions                : -rw-rw-rw-
+File Type                       : PDF
+File Type Extension             : pdf
+MIME Type                       : application/pdf
+PDF Version                     : 1.5
+Linearized                      : No
+Page Count                      : 1
+Language                        : zh-CN
+Tagged PDF                      : Yes
+Title                           : <COMPANY HEADER>
+Author                          : Fiona Ffuellenbach
+Creator                         : Microsoft® Word 2010
+Create Date                     : 2024:02:19 17:14:06+08:00
+Modify Date                     : 2024:02:19 17:14:06+08:00
+Producer                        : Microsoft® Word 2010
+======== Internal Photos-3.pdf
+ExifTool Version Number         : 13.49
+File Name                       : Internal Photos-3.pdf
+Directory                       : .
+File Size                       : 2.3 MB
+Zone Identifier                 : Exists
+File Modification Date/Time     : 2026:02:06 17:46:59-08:00
+File Access Date/Time           : 2026:02:06 22:04:00-08:00
+File Creation Date/Time         : 2026:02:06 22:03:42-08:00
+File Permissions                : -rw-rw-rw-
+File Type                       : PDF
+File Type Extension             : pdf
+MIME Type                       : application/pdf
+Linearized                      : No
+Encryption                      : Standard V4.4 (128-bit)
+User Access                     : Print, Print high-res
+Page Count                      : 7
+Language                        : zh-CN
+Tagged PDF                      : Yes
+Has XFA                         : No
+Signing Reason                  : 文档加密保护
+Signing Location                : 中国
+Signer Contact Info             : 
+Signing Date                    : 2024:02:19 17:30:47+08:00
+Modification Permissions        : Fill forms, Create page templates, Sign
+PDF Version                     : 1.5
+Author                          : Administrator
+Creator                         : Microsoft® Word 2010
+Create Date                     : 2024:02:19 17:30:55+08:00
+Modify Date                     : 2024:02:19 17:30:47+08:00
+Producer                        : Microsoft? Word 2010; modified using iText? 5.5.10 ?2000-2015 iText Group NV (AGPL-version)
+======== Internal Photos-4.pdf
+ExifTool Version Number         : 13.49
+File Name                       : Internal Photos-4.pdf
+Directory                       : .
+File Size                       : 2.3 MB
+Zone Identifier                 : Exists
+File Modification Date/Time     : 2026:02:06 17:50:15-08:00
+File Access Date/Time           : 2026:02:06 22:04:01-08:00
+File Creation Date/Time         : 2026:02:06 22:03:42-08:00
+File Permissions                : -rw-rw-rw-
+File Type                       : PDF
+File Type Extension             : pdf
+MIME Type                       : application/pdf
+Linearized                      : No
+Encryption                      : Standard V4.4 (128-bit)
+User Access                     : Print, Print high-res
+Page Count                      : 7
+Language                        : zh-CN
+Tagged PDF                      : Yes
+Has XFA                         : No
+Signing Reason                  : 文档加密保护
+Signing Location                : 中国
+Signer Contact Info             : 
+Signing Date                    : 2024:02:19 17:30:47+08:00
+Modification Permissions        : Fill forms, Create page templates, Sign
+PDF Version                     : 1.5
+Author                          : Administrator
+Creator                         : Microsoft® Word 2010
+Create Date                     : 2024:02:19 17:30:55+08:00
+Modify Date                     : 2024:02:19 17:30:47+08:00
+Producer                        : Microsoft? Word 2010; modified using iText? 5.5.10 ?2000-2015 iText Group NV (AGPL-version)
+======== Internal-Photos-7139568-1.pdf
+ExifTool Version Number         : 13.49
+File Name                       : Internal-Photos-7139568-1.pdf
+Directory                       : .
+File Size                       : 2.3 MB
+Zone Identifier                 : Exists
+File Modification Date/Time     : 2026:02:06 17:15:39-08:00
+File Access Date/Time           : 2026:02:06 22:04:01-08:00
+File Creation Date/Time         : 2026:02:06 22:03:42-08:00
+File Permissions                : -rw-rw-rw-
+File Type                       : PDF
+File Type Extension             : pdf
+MIME Type                       : application/pdf
+Linearized                      : No
+Encryption                      : Standard V4.4 (128-bit)
+User Access                     : Print, Print high-res
+Page Count                      : 7
+Language                        : zh-CN
+Tagged PDF                      : Yes
+Has XFA                         : No
+Signing Reason                  : 文档加密保护
+Signing Location                : 中国
+Signer Contact Info             : 
+Signing Date                    : 2024:02:19 17:30:47+08:00
+Modification Permissions        : Fill forms, Create page templates, Sign
+PDF Version                     : 1.5
+Author                          : Administrator
+Creator                         : Microsoft® Word 2010
+Create Date                     : 2024:02:19 17:30:55+08:00
+Modify Date                     : 2024:02:19 17:30:47+08:00
+Producer                        : Microsoft? Word 2010; modified using iText? 5.5.10 ?2000-2015 iText Group NV (AGPL-version)
+======== Internal-Photos-7139585-2.pdf
+ExifTool Version Number         : 13.49
+File Name                       : Internal-Photos-7139585-2.pdf
+Directory                       : .
+File Size                       : 2.3 MB
+Zone Identifier                 : Exists
+File Modification Date/Time     : 2026:02:06 17:22:54-08:00
+File Access Date/Time           : 2026:02:06 22:04:01-08:00
+File Creation Date/Time         : 2026:02:06 22:03:42-08:00
+File Permissions                : -rw-rw-rw-
+File Type                       : PDF
+File Type Extension             : pdf
+MIME Type                       : application/pdf
+Linearized                      : No
+Encryption                      : Standard V4.4 (128-bit)
+User Access                     : Print, Print high-res
+Page Count                      : 7
+Language                        : zh-CN
+Tagged PDF                      : Yes
+Has XFA                         : No
+Signing Reason                  : 文档加密保护
+Signing Location                : 中国
+Signer Contact Info             : 
+Signing Date                    : 2024:02:19 17:30:47+08:00
+Modification Permissions        : Fill forms, Create page templates, Sign
+PDF Version                     : 1.5
+Author                          : Administrator
+Creator                         : Microsoft® Word 2010
+Create Date                     : 2024:02:19 17:30:55+08:00
+Modify Date                     : 2024:02:19 17:30:47+08:00
+Producer                        : Microsoft? Word 2010; modified using iText? 5.5.10 ?2000-2015 iText Group NV (AGPL-version)
+======== label and location-3.pdf
+ExifTool Version Number         : 13.49
+File Name                       : label and location-3.pdf
+Directory                       : .
+File Size                       : 317 kB
+Zone Identifier                 : Exists
+File Modification Date/Time     : 2026:02:06 17:46:41-08:00
+File Access Date/Time           : 2026:02:06 22:04:01-08:00
+File Creation Date/Time         : 2026:02:06 22:03:43-08:00
+File Permissions                : -rw-rw-rw-
+File Type                       : PDF
+File Type Extension             : pdf
+MIME Type                       : application/pdf
+PDF Version                     : 1.5
+Linearized                      : No
+Page Count                      : 1
+Language                        : zh-CN
+Tagged PDF                      : Yes
+Author                          : USER
+Creator                         : Microsoft® Word 2010
+Create Date                     : 2024:02:19 17:07:33+08:00
+Modify Date                     : 2024:02:19 17:07:33+08:00
+Producer                        : Microsoft® Word 2010
+======== label and location-4.pdf
+ExifTool Version Number         : 13.49
+File Name                       : label and location-4.pdf
+Directory                       : .
+File Size                       : 317 kB
+Zone Identifier                 : Exists
+File Modification Date/Time     : 2026:02:06 17:50:01-08:00
+File Access Date/Time           : 2026:02:06 22:04:01-08:00
+File Creation Date/Time         : 2026:02:06 22:03:43-08:00
+File Permissions                : -rw-rw-rw-
+File Type                       : PDF
+File Type Extension             : pdf
+MIME Type                       : application/pdf
+PDF Version                     : 1.5
+Linearized                      : No
+Page Count                      : 1
+Language                        : zh-CN
+Tagged PDF                      : Yes
+Author                          : USER
+Creator                         : Microsoft® Word 2010
+Create Date                     : 2024:02:19 17:07:33+08:00
+Modify Date                     : 2024:02:19 17:07:33+08:00
+Producer                        : Microsoft® Word 2010
+======== label-and-location-7139566-1.pdf
+ExifTool Version Number         : 13.49
+File Name                       : label-and-location-7139566-1.pdf
+Directory                       : .
+File Size                       : 317 kB
+Zone Identifier                 : Exists
+File Modification Date/Time     : 2026:02:06 17:14:00-08:00
+File Access Date/Time           : 2026:02:06 22:04:01-08:00
+File Creation Date/Time         : 2026:02:06 22:03:43-08:00
+File Permissions                : -rw-rw-rw-
+File Type                       : PDF
+File Type Extension             : pdf
+MIME Type                       : application/pdf
+PDF Version                     : 1.5
+Linearized                      : No
+Page Count                      : 1
+Language                        : zh-CN
+Tagged PDF                      : Yes
+Author                          : USER
+Creator                         : Microsoft® Word 2010
+Create Date                     : 2024:02:19 17:07:33+08:00
+Modify Date                     : 2024:02:19 17:07:33+08:00
+Producer                        : Microsoft® Word 2010
+======== label-and-location-7139597-2.pdf
+ExifTool Version Number         : 13.49
+File Name                       : label-and-location-7139597-2.pdf
+Directory                       : .
+File Size                       : 317 kB
+Zone Identifier                 : Exists
+File Modification Date/Time     : 2026:02:06 17:19:38-08:00
+File Access Date/Time           : 2026:02:06 22:04:01-08:00
+File Creation Date/Time         : 2026:02:06 22:03:43-08:00
+File Permissions                : -rw-rw-rw-
+File Type                       : PDF
+File Type Extension             : pdf
+MIME Type                       : application/pdf
+PDF Version                     : 1.5
+Linearized                      : No
+Page Count                      : 1
+Language                        : zh-CN
+Tagged PDF                      : Yes
+Author                          : USER
+Creator                         : Microsoft® Word 2010
+Create Date                     : 2024:02:19 17:07:33+08:00
+Modify Date                     : 2024:02:19 17:07:33+08:00
+Producer                        : Microsoft® Word 2010
+======== RF Exposure Info1-3.pdf
+ExifTool Version Number         : 13.49
+File Name                       : RF Exposure Info1-3.pdf
+Directory                       : .
+File Size                       : 2.7 MB
+Zone Identifier                 : Exists
+File Modification Date/Time     : 2026:02:06 17:40:23-08:00
+File Access Date/Time           : 2026:02:06 22:04:01-08:00
+File Creation Date/Time         : 2026:02:06 22:03:43-08:00
+File Permissions                : -rw-rw-rw-
+File Type                       : PDF
+File Type Extension             : pdf
+MIME Type                       : application/pdf
+PDF Version                     : 1.5
+Linearized                      : No
+Page Count                      : 18
+Language                        : zh-CN
+Tagged PDF                      : Yes
+Author                          : Administrator
+Creator                         : Microsoft® Word 2010
+Create Date                     : 2024:02:19 17:31:24+08:00
+Modify Date                     : 2024:02:19 17:31:24+08:00
+Producer                        : Microsoft® Word 2010
+======== RF Exposure Info2-3.pdf
+ExifTool Version Number         : 13.49
+File Name                       : RF Exposure Info2-3.pdf
+Directory                       : .
+File Size                       : 183 kB
+Zone Identifier                 : Exists
+File Modification Date/Time     : 2026:02:06 17:40:36-08:00
+File Access Date/Time           : 2026:02:06 22:04:01-08:00
+File Creation Date/Time         : 2026:02:06 22:03:43-08:00
+File Permissions                : -rw-rw-rw-
+File Type                       : PDF
+File Type Extension             : pdf
+MIME Type                       : application/pdf
+PDF Version                     : 1.5
+Linearized                      : Yes
+Author                          : dell
+Company                         : china
+Create Date                     : 2024:02:21 16:13:35+08:00
+Modify Date                     : 2024:02:21 16:13:36+08:00
+Tagged PDF                      : Yes
+XMP Toolkit                     : Adobe XMP Core 5.6-c015 81.157285, 2014/12/12-00:43:15
+Metadata Date                   : 2024:02:21 16:13:36+08:00
+Creator Tool                    : Acrobat PDFMaker 15 Word 版
+Document ID                     : uuid:53c73467-b60f-40f8-b3dc-6f71260fed5e
+Instance ID                     : uuid:0eb401c9-43f3-4624-bb73-f3f1231135ac
+Subject                         : 4
+Format                          : application/pdf
+Creator                         : dell
+Producer                        : Adobe PDF Library 15.0
+Source Modified                 : 2024:02:21 08:13:33
+Page Layout                     : OneColumn
+Page Count                      : 1
+Profile CMM Type                : Adobe Systems Inc.
+Profile Version                 : 2.1.0
+Profile Class                   : Display Device Profile
+Color Space Data                : GRAY
+Profile Connection Space        : XYZ
+Profile Date Time               : 1999:06:03 00:00:00
+Profile File Signature          : acsp
+Primary Platform                : Apple Computer Inc.
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : none
+Device Model                    : 
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Adobe Systems Inc.
+Profile ID                      : 0
+Profile Copyright               : Copyright 1999 Adobe Systems Incorporated
+Profile Description             : Gray Gamma 2.2
+Media White Point               : 0.9505 1 1.0891
+Media Black Point               : 0 0 0
+Gray Tone Reproduction Curve    : (Binary data 14 bytes, use -b option to extract)
+======== RF Exposure Info3-3.pdf
+ExifTool Version Number         : 13.49
+File Name                       : RF Exposure Info3-3.pdf
+Directory                       : .
+File Size                       : 2.8 MB
+Zone Identifier                 : Exists
+File Modification Date/Time     : 2026:02:06 17:40:48-08:00
+File Access Date/Time           : 2026:02:06 22:04:01-08:00
+File Creation Date/Time         : 2026:02:06 22:03:43-08:00
+File Permissions                : -rw-rw-rw-
+File Type                       : PDF
+File Type Extension             : pdf
+MIME Type                       : application/pdf
+Linearized                      : No
+Encryption                      : Standard V4.4 (128-bit)
+User Access                     : Print, Print high-res
+Page Count                      : 44
+Warning                         : [Minor] Skipping large AES-encrypted ICC_Profile
+Has XFA                         : No
+Signing Reason                  : 文档加密保护
+Signing Location                : 中国
+Signer Contact Info             : 
+Signing Date                    : 2024:02:19 17:30:45+08:00
+Modification Permissions        : Fill forms, Create page templates, Sign
+PDF Version                     : 1.7
+Modify Date                     : 2024:02:19 17:30:45+08:00
+Producer                        : iText? 5.5.10 ?2000-2015 iText Group NV (AGPL-version); modified using iText? 5.5.10 ?2000-2015 iText Group NV (AGPL-version)
+======== RF-Exposure-Info-7139589-2.pdf
+ExifTool Version Number         : 13.49
+File Name                       : RF-Exposure-Info-7139589-2.pdf
+Directory                       : .
+File Size                       : 2.8 MB
+Zone Identifier                 : Exists
+File Modification Date/Time     : 2026:02:06 17:22:14-08:00
+File Access Date/Time           : 2026:02:06 22:04:01-08:00
+File Creation Date/Time         : 2026:02:06 22:03:43-08:00
+File Permissions                : -rw-rw-rw-
+File Type                       : PDF
+File Type Extension             : pdf
+MIME Type                       : application/pdf
+Linearized                      : No
+Encryption                      : Standard V4.4 (128-bit)
+User Access                     : Print, Print high-res
+Page Count                      : 44
+Warning                         : [Minor] Skipping large AES-encrypted ICC_Profile
+Has XFA                         : No
+Signing Reason                  : 文档加密保护
+Signing Location                : 中国
+Signer Contact Info             : 
+Signing Date                    : 2024:02:19 17:30:45+08:00
+Modification Permissions        : Fill forms, Create page templates, Sign
+PDF Version                     : 1.7
+Modify Date                     : 2024:02:19 17:30:45+08:00
+Producer                        : iText? 5.5.10 ?2000-2015 iText Group NV (AGPL-version); modified using iText? 5.5.10 ?2000-2015 iText Group NV (AGPL-version)
+======== Test Photos-4.pdf
+ExifTool Version Number         : 13.49
+File Name                       : Test Photos-4.pdf
+Directory                       : .
+File Size                       : 1144 kB
+Zone Identifier                 : Exists
+File Modification Date/Time     : 2026:02:06 17:50:44-08:00
+File Access Date/Time           : 2026:02:06 22:03:29-08:00
+File Creation Date/Time         : 2026:02:06 22:01:03-08:00
+File Permissions                : -rw-rw-rw-
+File Type                       : PDF
+File Type Extension             : pdf
+MIME Type                       : application/pdf
+Linearized                      : No
+Encryption                      : Standard V4.4 (128-bit)
+User Access                     : Print, Print high-res
+Page Count                      : 2
+Language                        : zh-CN
+Tagged PDF                      : Yes
+Has XFA                         : No
+Signing Reason                  : 文档加密保护
+Signing Location                : 中国
+Signer Contact Info             : 
+Signing Date                    : 2024:02:19 17:30:50+08:00
+Modification Permissions        : Fill forms, Create page templates, Sign
+PDF Version                     : 1.5
+Author                          : Administrator
+Creator                         : Microsoft® Word 2010
+Create Date                     : 2024:02:19 17:30:57+08:00
+Modify Date                     : 2024:02:19 17:30:50+08:00
+Producer                        : Microsoft? Word 2010; modified using iText? 5.5.10 ?2000-2015 iText Group NV (AGPL-version)
+======== test Report-3.pdf
+ExifTool Version Number         : 13.49
+File Name                       : test Report-3.pdf
+Directory                       : .
+File Size                       : 3.2 MB
+Zone Identifier                 : Exists
+File Modification Date/Time     : 2026:02:06 17:43:03-08:00
+File Access Date/Time           : 2026:02:06 22:04:01-08:00
+File Creation Date/Time         : 2026:02:06 22:01:03-08:00
+File Permissions                : -rw-rw-rw-
+File Type                       : PDF
+File Type Extension             : pdf
+MIME Type                       : application/pdf
+Linearized                      : No
+Encryption                      : Standard V4.4 (128-bit)
+User Access                     : Print, Print high-res
+Page Count                      : 36
+Warning                         : [Minor] Skipping large AES-encrypted ICC_Profile
+Has XFA                         : No
+Signing Reason                  : 文档加密保护
+Signing Location                : 中国
+Signer Contact Info             : 
+Signing Date                    : 2024:02:19 17:30:42+08:00
+Modification Permissions        : Fill forms, Create page templates, Sign
+PDF Version                     : 1.7
+Modify Date                     : 2024:02:19 17:30:42+08:00
+Producer                        : iText? 5.5.10 ?2000-2015 iText Group NV (AGPL-version); modified using iText? 5.5.10 ?2000-2015 iText Group NV (AGPL-version)
+======== test Report-4.pdf
+ExifTool Version Number         : 13.49
+File Name                       : test Report-4.pdf
+Directory                       : .
+File Size                       : 2.2 MB
+Zone Identifier                 : Exists
+File Modification Date/Time     : 2026:02:06 17:50:29-08:00
+File Access Date/Time           : 2026:02:06 22:04:01-08:00
+File Creation Date/Time         : 2026:02:06 22:01:03-08:00
+File Permissions                : -rw-rw-rw-
+File Type                       : PDF
+File Type Extension             : pdf
+MIME Type                       : application/pdf
+Linearized                      : No
+Encryption                      : Standard V4.4 (128-bit)
+User Access                     : Print, Print high-res
+Page Count                      : 23
+Warning                         : [Minor] Skipping large AES-encrypted ICC_Profile
+Has XFA                         : No
+Signing Reason                  : 文档加密保护
+Signing Location                : 中国
+Signer Contact Info             : 
+Signing Date                    : 2024:02:19 17:30:33+08:00
+Modification Permissions        : Fill forms, Create page templates, Sign
+PDF Version                     : 1.7
+Modify Date                     : 2024:02:19 17:30:33+08:00
+Producer                        : iText? 5.5.10 ?2000-2015 iText Group NV (AGPL-version); modified using iText? 5.5.10 ?2000-2015 iText Group NV (AGPL-version)
+======== Test Setup Photos-3.pdf
+ExifTool Version Number         : 13.49
+File Name                       : Test Setup Photos-3.pdf
+Directory                       : .
+File Size                       : 1139 kB
+Zone Identifier                 : Exists
+File Modification Date/Time     : 2026:02:06 17:43:20-08:00
+File Access Date/Time           : 2026:02:06 22:04:01-08:00
+File Creation Date/Time         : 2026:02:06 22:01:03-08:00
+File Permissions                : -rw-rw-rw-
+File Type                       : PDF
+File Type Extension             : pdf
+MIME Type                       : application/pdf
+Linearized                      : No
+Encryption                      : Standard V4.4 (128-bit)
+User Access                     : Print, Print high-res
+Page Count                      : 2
+Language                        : zh-CN
+Tagged PDF                      : Yes
+Has XFA                         : No
+Signing Reason                  : 文档加密保护
+Signing Location                : 中国
+Signer Contact Info             : 
+Signing Date                    : 2024:02:26 14:19:43+08:00
+Modification Permissions        : Fill forms, Create page templates, Sign
+PDF Version                     : 1.5
+Author                          : Administrator
+Creator                         : Microsoft® Word 2010
+Create Date                     : 2024:02:26 14:19:57+08:00
+Modify Date                     : 2024:02:26 14:19:43+08:00
+Producer                        : Microsoft? Word 2010; modified using iText? 5.5.10 ?2000-2015 iText Group NV (AGPL-version)
+======== Test-Photos-7139577-1.pdf
+ExifTool Version Number         : 13.49
+File Name                       : Test-Photos-7139577-1.pdf
+Directory                       : .
+File Size                       : 1144 kB
+Zone Identifier                 : Exists
+File Modification Date/Time     : 2026:02:06 17:19:04-08:00
+File Access Date/Time           : 2026:02:06 22:04:01-08:00
+File Creation Date/Time         : 2026:02:06 22:01:03-08:00
+File Permissions                : -rw-rw-rw-
+File Type                       : PDF
+File Type Extension             : pdf
+MIME Type                       : application/pdf
+Linearized                      : No
+Encryption                      : Standard V4.4 (128-bit)
+User Access                     : Print, Print high-res
+Page Count                      : 2
+Language                        : zh-CN
+Tagged PDF                      : Yes
+Has XFA                         : No
+Signing Reason                  : 文档加密保护
+Signing Location                : 中国
+Signer Contact Info             : 
+Signing Date                    : 2024:02:19 17:30:50+08:00
+Modification Permissions        : Fill forms, Create page templates, Sign
+PDF Version                     : 1.5
+Author                          : Administrator
+Creator                         : Microsoft® Word 2010
+Create Date                     : 2024:02:19 17:30:57+08:00
+Modify Date                     : 2024:02:19 17:30:50+08:00
+Producer                        : Microsoft? Word 2010; modified using iText? 5.5.10 ?2000-2015 iText Group NV (AGPL-version)
+======== test-Report-7139570-1.pdf
+ExifTool Version Number         : 13.49
+File Name                       : test-Report-7139570-1.pdf
+Directory                       : .
+File Size                       : 2.2 MB
+Zone Identifier                 : Exists
+File Modification Date/Time     : 2026:02:06 17:16:19-08:00
+File Access Date/Time           : 2026:02:06 22:04:02-08:00
+File Creation Date/Time         : 2026:02:06 22:01:03-08:00
+File Permissions                : -rw-rw-rw-
+File Type                       : PDF
+File Type Extension             : pdf
+MIME Type                       : application/pdf
+Linearized                      : No
+Encryption                      : Standard V4.4 (128-bit)
+User Access                     : Print, Print high-res
+Page Count                      : 23
+Warning                         : [Minor] Skipping large AES-encrypted ICC_Profile
+Has XFA                         : No
+Signing Reason                  : 文档加密保护
+Signing Location                : 中国
+Signer Contact Info             : 
+Signing Date                    : 2024:02:19 17:30:33+08:00
+Modification Permissions        : Fill forms, Create page templates, Sign
+PDF Version                     : 1.7
+Modify Date                     : 2024:02:19 17:30:33+08:00
+Producer                        : iText? 5.5.10 ?2000-2015 iText Group NV (AGPL-version); modified using iText? 5.5.10 ?2000-2015 iText Group NV (AGPL-version)
+======== test-Report-7139590-2.pdf
+ExifTool Version Number         : 13.49
+File Name                       : test-Report-7139590-2.pdf
+Directory                       : .
+File Size                       : 3.2 MB
+Zone Identifier                 : Exists
+File Modification Date/Time     : 2026:02:06 17:21:42-08:00
+File Access Date/Time           : 2026:02:06 22:04:02-08:00
+File Creation Date/Time         : 2026:02:06 22:01:04-08:00
+File Permissions                : -rw-rw-rw-
+File Type                       : PDF
+File Type Extension             : pdf
+MIME Type                       : application/pdf
+Linearized                      : No
+Encryption                      : Standard V4.4 (128-bit)
+User Access                     : Print, Print high-res
+Page Count                      : 36
+Warning                         : [Minor] Skipping large AES-encrypted ICC_Profile
+Has XFA                         : No
+Signing Reason                  : 文档加密保护
+Signing Location                : 中国
+Signer Contact Info             : 
+Signing Date                    : 2024:02:19 17:30:42+08:00
+Modification Permissions        : Fill forms, Create page templates, Sign
+PDF Version                     : 1.7
+Modify Date                     : 2024:02:19 17:30:42+08:00
+Producer                        : iText? 5.5.10 ?2000-2015 iText Group NV (AGPL-version); modified using iText? 5.5.10 ?2000-2015 iText Group NV (AGPL-version)
+======== Test-Setup-Photos-7139591-2.pdf
+ExifTool Version Number         : 13.49
+File Name                       : Test-Setup-Photos-7139591-2.pdf
+Directory                       : .
+File Size                       : 1139 kB
+Zone Identifier                 : Exists
+File Modification Date/Time     : 2026:02:06 17:21:26-08:00
+File Access Date/Time           : 2026:02:06 22:04:02-08:00
+File Creation Date/Time         : 2026:02:06 22:01:04-08:00
+File Permissions                : -rw-rw-rw-
+File Type                       : PDF
+File Type Extension             : pdf
+MIME Type                       : application/pdf
+Linearized                      : No
+Encryption                      : Standard V4.4 (128-bit)
+User Access                     : Print, Print high-res
+Page Count                      : 2
+Language                        : zh-CN
+Tagged PDF                      : Yes
+Has XFA                         : No
+Signing Reason                  : 文档加密保护
+Signing Location                : 中国
+Signer Contact Info             : 
+Signing Date                    : 2024:02:26 14:19:43+08:00
+Modification Permissions        : Fill forms, Create page templates, Sign
+PDF Version                     : 1.5
+Author                          : Administrator
+Creator                         : Microsoft® Word 2010
+Create Date                     : 2024:02:26 14:19:57+08:00
+Modify Date                     : 2024:02:26 14:19:43+08:00
+Producer                        : Microsoft? Word 2010; modified using iText? 5.5.10 ?2000-2015 iText Group NV (AGPL-version)
+======== USA agent lette-4.pdf
+ExifTool Version Number         : 13.49
+File Name                       : USA agent lette-4.pdf
+Directory                       : .
+File Size                       : 204 kB
+Zone Identifier                 : Exists
+File Modification Date/Time     : 2026:02:06 17:48:38-08:00
+File Access Date/Time           : 2026:02:06 22:04:02-08:00
+File Creation Date/Time         : 2026:02:06 22:03:45-08:00
+File Permissions                : -rw-rw-rw-
+File Type                       : PDF
+File Type Extension             : pdf
+MIME Type                       : application/pdf
+PDF Version                     : 1.6
+Linearized                      : Yes
+Author                          : Miranda Lu
+Create Date                     : 2024:02:19 13:59:28-06:00
+Modify Date                     : 2024:02:19 14:00:07-06:00
+Has XFA                         : No
+XMP Toolkit                     : Adobe XMP Core 5.4-c005 78.147326, 2012/08/23-13:03:03
+Producer                        : Acrobat Distiller 11.0 (Windows)
+Creator Tool                    : PScript5.dll Version 5.2.2
+Metadata Date                   : 2024:02:19 14:00:07-06:00
+Format                          : application/pdf
+Title                           : Microsoft Word - Attestation Statements US agent for service of process _1_.docx
+Creator                         : Miranda Lu
+Document ID                     : uuid:bdf18070-18e8-4d10-94f5-eb79b0380549
+Instance ID                     : uuid:6b1f6b42-ded5-4e66-90c6-31a4ceb137d5
+Page Count                      : 1
+Profile CMM Type                : Linotronic
+Profile Version                 : 2.1.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 1998:02:09 06:49:00
+Profile File Signature          : acsp
+Primary Platform                : Microsoft Corporation
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : Hewlett-Packard
+Device Model                    : sRGB
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Hewlett-Packard
+Profile ID                      : 0
+Profile Copyright               : Copyright (c) 1998 Hewlett-Packard Company
+Profile Description             : sRGB IEC61966-2.1
+Media White Point               : 0.95045 1 1.08905
+Media Black Point               : 0 0 0
+Red Matrix Column               : 0.43607 0.22249 0.01392
+Green Matrix Column             : 0.38515 0.71687 0.09708
+Blue Matrix Column              : 0.14307 0.06061 0.7141
+Device Mfg Desc                 : IEC http://www.iec.ch
+Device Model Desc               : IEC 61966-2.1 Default RGB colour space - sRGB
+Viewing Cond Desc               : Reference Viewing Condition in IEC61966-2.1
+Viewing Cond Illuminant         : 19.6445 20.3718 16.8089
+Viewing Cond Surround           : 3.92889 4.07439 3.36179
+Viewing Cond Illuminant Type    : D50
+Luminance                       : 76.03647 80 87.12462
+Measurement Observer            : CIE 1931
+Measurement Backing             : 0 0 0
+Measurement Geometry            : Unknown
+Measurement Flare               : 0.999%
+Measurement Illuminant          : D65
+Technology                      : Cathode Ray Tube Display
+Red Tone Reproduction Curve     : (Binary data 2060 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 2060 bytes, use -b option to extract)
+Blue Tone Reproduction Curve    : (Binary data 2060 bytes, use -b option to extract)
+======== USA agent-3.pdf
+ExifTool Version Number         : 13.49
+File Name                       : USA agent-3.pdf
+Directory                       : .
+File Size                       : 204 kB
+Zone Identifier                 : Exists
+File Modification Date/Time     : 2026:02:06 17:44:13-08:00
+File Access Date/Time           : 2026:02:06 22:04:02-08:00
+File Creation Date/Time         : 2026:02:06 22:03:45-08:00
+File Permissions                : -rw-rw-rw-
+File Type                       : PDF
+File Type Extension             : pdf
+MIME Type                       : application/pdf
+PDF Version                     : 1.6
+Linearized                      : Yes
+Author                          : Miranda Lu
+Create Date                     : 2024:02:19 13:59:28-06:00
+Modify Date                     : 2024:02:19 14:00:07-06:00
+Has XFA                         : No
+XMP Toolkit                     : Adobe XMP Core 5.4-c005 78.147326, 2012/08/23-13:03:03
+Producer                        : Acrobat Distiller 11.0 (Windows)
+Creator Tool                    : PScript5.dll Version 5.2.2
+Metadata Date                   : 2024:02:19 14:00:07-06:00
+Format                          : application/pdf
+Title                           : Microsoft Word - Attestation Statements US agent for service of process _1_.docx
+Creator                         : Miranda Lu
+Document ID                     : uuid:bdf18070-18e8-4d10-94f5-eb79b0380549
+Instance ID                     : uuid:6b1f6b42-ded5-4e66-90c6-31a4ceb137d5
+Page Count                      : 1
+Profile CMM Type                : Linotronic
+Profile Version                 : 2.1.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 1998:02:09 06:49:00
+Profile File Signature          : acsp
+Primary Platform                : Microsoft Corporation
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : Hewlett-Packard
+Device Model                    : sRGB
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Hewlett-Packard
+Profile ID                      : 0
+Profile Copyright               : Copyright (c) 1998 Hewlett-Packard Company
+Profile Description             : sRGB IEC61966-2.1
+Media White Point               : 0.95045 1 1.08905
+Media Black Point               : 0 0 0
+Red Matrix Column               : 0.43607 0.22249 0.01392
+Green Matrix Column             : 0.38515 0.71687 0.09708
+Blue Matrix Column              : 0.14307 0.06061 0.7141
+Device Mfg Desc                 : IEC http://www.iec.ch
+Device Model Desc               : IEC 61966-2.1 Default RGB colour space - sRGB
+Viewing Cond Desc               : Reference Viewing Condition in IEC61966-2.1
+Viewing Cond Illuminant         : 19.6445 20.3718 16.8089
+Viewing Cond Surround           : 3.92889 4.07439 3.36179
+Viewing Cond Illuminant Type    : D50
+Luminance                       : 76.03647 80 87.12462
+Measurement Observer            : CIE 1931
+Measurement Backing             : 0 0 0
+Measurement Geometry            : Unknown
+Measurement Flare               : 0.999%
+Measurement Illuminant          : D65
+Technology                      : Cathode Ray Tube Display
+Red Tone Reproduction Curve     : (Binary data 2060 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 2060 bytes, use -b option to extract)
+Blue Tone Reproduction Curve    : (Binary data 2060 bytes, use -b option to extract)
+======== USA-agent-7139595-2.pdf
+ExifTool Version Number         : 13.49
+File Name                       : USA-agent-7139595-2.pdf
+Directory                       : .
+File Size                       : 204 kB
+Zone Identifier                 : Exists
+File Modification Date/Time     : 2026:02:06 17:20:18-08:00
+File Access Date/Time           : 2026:02:06 22:04:02-08:00
+File Creation Date/Time         : 2026:02:06 22:03:45-08:00
+File Permissions                : -rw-rw-rw-
+File Type                       : PDF
+File Type Extension             : pdf
+MIME Type                       : application/pdf
+PDF Version                     : 1.6
+Linearized                      : Yes
+Author                          : Miranda Lu
+Create Date                     : 2024:02:19 13:59:28-06:00
+Modify Date                     : 2024:02:19 14:00:07-06:00
+Has XFA                         : No
+XMP Toolkit                     : Adobe XMP Core 5.4-c005 78.147326, 2012/08/23-13:03:03
+Producer                        : Acrobat Distiller 11.0 (Windows)
+Creator Tool                    : PScript5.dll Version 5.2.2
+Metadata Date                   : 2024:02:19 14:00:07-06:00
+Format                          : application/pdf
+Title                           : Microsoft Word - Attestation Statements US agent for service of process _1_.docx
+Creator                         : Miranda Lu
+Document ID                     : uuid:bdf18070-18e8-4d10-94f5-eb79b0380549
+Instance ID                     : uuid:6b1f6b42-ded5-4e66-90c6-31a4ceb137d5
+Page Count                      : 1
+Profile CMM Type                : Linotronic
+Profile Version                 : 2.1.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 1998:02:09 06:49:00
+Profile File Signature          : acsp
+Primary Platform                : Microsoft Corporation
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : Hewlett-Packard
+Device Model                    : sRGB
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Hewlett-Packard
+Profile ID                      : 0
+Profile Copyright               : Copyright (c) 1998 Hewlett-Packard Company
+Profile Description             : sRGB IEC61966-2.1
+Media White Point               : 0.95045 1 1.08905
+Media Black Point               : 0 0 0
+Red Matrix Column               : 0.43607 0.22249 0.01392
+Green Matrix Column             : 0.38515 0.71687 0.09708
+Blue Matrix Column              : 0.14307 0.06061 0.7141
+Device Mfg Desc                 : IEC http://www.iec.ch
+Device Model Desc               : IEC 61966-2.1 Default RGB colour space - sRGB
+Viewing Cond Desc               : Reference Viewing Condition in IEC61966-2.1
+Viewing Cond Illuminant         : 19.6445 20.3718 16.8089
+Viewing Cond Surround           : 3.92889 4.07439 3.36179
+Viewing Cond Illuminant Type    : D50
+Luminance                       : 76.03647 80 87.12462
+Measurement Observer            : CIE 1931
+Measurement Backing             : 0 0 0
+Measurement Geometry            : Unknown
+Measurement Flare               : 0.999%
+Measurement Illuminant          : D65
+Technology                      : Cathode Ray Tube Display
+Red Tone Reproduction Curve     : (Binary data 2060 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 2060 bytes, use -b option to extract)
+Blue Tone Reproduction Curve    : (Binary data 2060 bytes, use -b option to extract)
+======== USA-agent-lette-7139576-1.pdf
+ExifTool Version Number         : 13.49
+File Name                       : USA-agent-lette-7139576-1.pdf
+Directory                       : .
+File Size                       : 204 kB
+Zone Identifier                 : Exists
+File Modification Date/Time     : 2026:02:06 17:18:49-08:00
+File Access Date/Time           : 2026:02:06 22:04:02-08:00
+File Creation Date/Time         : 2026:02:06 22:03:45-08:00
+File Permissions                : -rw-rw-rw-
+File Type                       : PDF
+File Type Extension             : pdf
+MIME Type                       : application/pdf
+PDF Version                     : 1.6
+Linearized                      : Yes
+Author                          : Miranda Lu
+Create Date                     : 2024:02:19 13:59:28-06:00
+Modify Date                     : 2024:02:19 14:00:07-06:00
+Has XFA                         : No
+XMP Toolkit                     : Adobe XMP Core 5.4-c005 78.147326, 2012/08/23-13:03:03
+Producer                        : Acrobat Distiller 11.0 (Windows)
+Creator Tool                    : PScript5.dll Version 5.2.2
+Metadata Date                   : 2024:02:19 14:00:07-06:00
+Format                          : application/pdf
+Title                           : Microsoft Word - Attestation Statements US agent for service of process _1_.docx
+Creator                         : Miranda Lu
+Document ID                     : uuid:bdf18070-18e8-4d10-94f5-eb79b0380549
+Instance ID                     : uuid:6b1f6b42-ded5-4e66-90c6-31a4ceb137d5
+Page Count                      : 1
+Profile CMM Type                : Linotronic
+Profile Version                 : 2.1.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 1998:02:09 06:49:00
+Profile File Signature          : acsp
+Primary Platform                : Microsoft Corporation
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : Hewlett-Packard
+Device Model                    : sRGB
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Hewlett-Packard
+Profile ID                      : 0
+Profile Copyright               : Copyright (c) 1998 Hewlett-Packard Company
+Profile Description             : sRGB IEC61966-2.1
+Media White Point               : 0.95045 1 1.08905
+Media Black Point               : 0 0 0
+Red Matrix Column               : 0.43607 0.22249 0.01392
+Green Matrix Column             : 0.38515 0.71687 0.09708
+Blue Matrix Column              : 0.14307 0.06061 0.7141
+Device Mfg Desc                 : IEC http://www.iec.ch
+Device Model Desc               : IEC 61966-2.1 Default RGB colour space - sRGB
+Viewing Cond Desc               : Reference Viewing Condition in IEC61966-2.1
+Viewing Cond Illuminant         : 19.6445 20.3718 16.8089
+Viewing Cond Surround           : 3.92889 4.07439 3.36179
+Viewing Cond Illuminant Type    : D50
+Luminance                       : 76.03647 80 87.12462
+Measurement Observer            : CIE 1931
+Measurement Backing             : 0 0 0
+Measurement Geometry            : Unknown
+Measurement Flare               : 0.999%
+Measurement Illuminant          : D65
+Technology                      : Cathode Ray Tube Display
+Red Tone Reproduction Curve     : (Binary data 2060 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 2060 bytes, use -b option to extract)
+Blue Tone Reproduction Curve    : (Binary data 2060 bytes, use -b option to extract)
+======== User manual-3.pdf
+ExifTool Version Number         : 13.49
+File Name                       : User manual-3.pdf
+Directory                       : .
+File Size                       : 875 kB
+Zone Identifier                 : Exists
+File Modification Date/Time     : 2026:02:06 17:43:37-08:00
+File Access Date/Time           : 2026:02:06 22:04:02-08:00
+File Creation Date/Time         : 2026:02:06 22:03:45-08:00
+File Permissions                : -rw-rw-rw-
+File Type                       : PDF
+File Type Extension             : pdf
+MIME Type                       : application/pdf
+PDF Version                     : 1.5
+Linearized                      : No
+Page Count                      : 27
+Language                        : zh-CN
+Tagged PDF                      : Yes
+Author                          : Administrator
+Creator                         : Microsoft® Word 2010
+Create Date                     : 2024:02:19 17:28:24+08:00
+Modify Date                     : 2024:02:19 17:28:24+08:00
+Producer                        : Microsoft® Word 2010
+======== User manual-4.pdf
+ExifTool Version Number         : 13.49
+File Name                       : User manual-4.pdf
+Directory                       : .
+File Size                       : 875 kB
+Zone Identifier                 : Exists
+File Modification Date/Time     : 2026:02:06 17:51:05-08:00
+File Access Date/Time           : 2026:02:06 22:04:02-08:00
+File Creation Date/Time         : 2026:02:06 22:03:45-08:00
+File Permissions                : -rw-rw-rw-
+File Type                       : PDF
+File Type Extension             : pdf
+MIME Type                       : application/pdf
+PDF Version                     : 1.5
+Linearized                      : No
+Page Count                      : 27
+Language                        : zh-CN
+Tagged PDF                      : Yes
+Author                          : Administrator
+Creator                         : Microsoft® Word 2010
+Create Date                     : 2024:02:19 17:28:24+08:00
+Modify Date                     : 2024:02:19 17:28:24+08:00
+Producer                        : Microsoft® Word 2010
+======== User-manual-7139569-1.pdf
+ExifTool Version Number         : 13.49
+File Name                       : User-manual-7139569-1.pdf
+Directory                       : .
+File Size                       : 875 kB
+Zone Identifier                 : Exists
+File Modification Date/Time     : 2026:02:06 17:16:01-08:00
+File Access Date/Time           : 2026:02:06 22:04:02-08:00
+File Creation Date/Time         : 2026:02:06 22:03:45-08:00
+File Permissions                : -rw-rw-rw-
+File Type                       : PDF
+File Type Extension             : pdf
+MIME Type                       : application/pdf
+PDF Version                     : 1.5
+Linearized                      : No
+Page Count                      : 27
+Language                        : zh-CN
+Tagged PDF                      : Yes
+Author                          : Administrator
+Creator                         : Microsoft® Word 2010
+Create Date                     : 2024:02:19 17:28:24+08:00
+Modify Date                     : 2024:02:19 17:28:24+08:00
+Producer                        : Microsoft® Word 2010
+======== User-manual-7139586-2.pdf
+ExifTool Version Number         : 13.49
+File Name                       : User-manual-7139586-2.pdf
+Directory                       : .
+File Size                       : 875 kB
+Zone Identifier                 : Exists
+File Modification Date/Time     : 2026:02:06 17:22:37-08:00
+File Access Date/Time           : 2026:02:06 22:04:02-08:00
+File Creation Date/Time         : 2026:02:06 22:03:46-08:00
+File Permissions                : -rw-rw-rw-
+File Type                       : PDF
+File Type Extension             : pdf
+MIME Type                       : application/pdf
+PDF Version                     : 1.5
+Linearized                      : No
+Page Count                      : 27
+Language                        : zh-CN
+Tagged PDF                      : Yes
+Author                          : Administrator
+Creator                         : Microsoft® Word 2010
+Create Date                     : 2024:02:19 17:28:24+08:00
+Modify Date                     : 2024:02:19 17:28:24+08:00
+Producer                        : Microsoft® Word 2010
+   48 image files read
