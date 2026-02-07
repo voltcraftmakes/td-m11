@@ -91,6 +91,17 @@ Everything we know up to this point about the M11 Radio.  We tear it open, analy
     Page5 Icons for Battery charge status are better<br>
     Page6 I have not seen the 'end of transmission tone' email me if you have one<br>
     Page8 Bluetooth section completely rewritten "When the Bluetooth function is turned on, the icon displays and the red light turns on.  The green light is on after connecting through the cell phone APP (Odmaster)  . The green light flashes during communicatoni and the light is off when communication is over"<br>
+    Page9 <br>
+    1. Transmit Power notes removed "PMR446 only supports 0.5W Max, FRS 8-14Ch only supports 0.5W Max and Carrier Output Power <=0.5W PMR446 and <=1.0W/0.5W FRS" and manual now shows Carrier Output Power <=2W<br>
+    2. Frequency range now listed as UHF:400-480MHZ (was shows as PMR446 and FRS before)<br>
+    3. Operating temperature now 60C, was 40C<br>
+    4. Adds Wide 25KHZ channel spacing<br>
+    5. Modulation Limiting adds W: <=5kHZ<br>
+    6. Occupying Bandwidth is now 16kHz, was 11kHz<br>
+    
+    
+    
+    
     
     
     
