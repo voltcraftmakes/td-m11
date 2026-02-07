@@ -141,9 +141,9 @@ Everything we know up to this point about the M11 Radio.  We tear it open, analy
 	<a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/User-manual-7139569-1.pdf">16. User manual</a><br>
     
     Fcc report review:<br>
-1. Firmware (software) listed as V1.0, shipping is 0.9.4 <a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/test-Report-7139590-2.pdf">(13)</a><br>
-2. Board rev listed shown 1.2 in some places, shipping is 1.4 <a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/Internal-Photos-7139568-1.pdf">(8)<br>
-3. Battery listed as T-20C 1500mAh, shipping is BP-11 1000mAh <a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/test-Report-7139590-2.pdf">(13)</a><br>
+1. Firmware (software) listed as V1.0, shipping is 0.9.4 <a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/RF-Exposure-Info-7139589-2.pdf">(11)</a> and <a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/test-Report-7139590-2.pdf">(13)</a><br>
+2. Board rev listed shown 1.2 in some places, shipping is 1.4 <a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/Internal-Photos-7139568-1.pdf">(8)</a> and <a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/RF-Exposure-Info-7139589-2.pdf">(11)</a><br>
+3. Battery listed as T-20C 1500mAh, shipping is BP-11 1000mAh <a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/RF-Exposure-Info-7139589-2.pdf">(11)</a> and <a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/test-Report-7139590-2.pdf">(13)</a><br>
 4. Label mark listed as FCC ID: 2A4FBM11 in <a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/label-and-location-7139566-1.pdf">(7)</a>, currently shipping is <a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/TD-M11%20Label.jpg">FCC ID: 2A-TDM11</a> <br>
 5. Internal photos do not show IP67 sealing, shipping unit has ip67 sealing compound (white) for microphone and speaker <a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/Internal-Photos-7139568-1.pdf">(8)</a><br>
 6. US agent <a href="https://www.fccusagent.com/about/">Tim Payne </a> @ FCCUSAgent.com identified <a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/USA-agent-lette-7139576-1.pdf">(2)</a> <br>
@@ -151,6 +151,7 @@ Everything we know up to this point about the M11 Radio.  We tear it open, analy
 8. Allows versions TD-M12, TD-M13. no record of TD-M12 ever shipping. TD-M13 is now offered as a POC radio, a completely different radio but supposedly named in this certificate. <a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/Difference-Description-7139572-1.pdf">(3)</a>and <a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/RF-Exposure-Info-7139589-2.pdf">(11)</a> and <a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/test-Report-7139590-2.pdf">(13)</a><br>
 9. Emission bandwidth listed as 10.52Khz, standard allows 12.5kHz, manual lists bandwidth is 16khz <a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/test-Report-7139590-2.pdf">(13)</a>
 10. Test report shows unit never went over 1W ERP, marketing fluff now shows in manual <=2W, but unit is still likely a 1W max unit <a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/test-Report-7139590-2.pdf">(13)</a>
+11. Temperature range was -20C to 50C is now 60C?
 </td>
 <tr><td><a href="https://www.youtube.com/watch?v=o2LUXxH6YpM&t=3701s">Radio versions/Accessories<br>[1:01:41] </a></td>
 </tr>
