@@ -109,6 +109,23 @@ Everything we know up to this point about the M11 Radio.  We tear it open, analy
     Search: Grantee Code: 2A4FB  or Applicant Name: Guangzhou TID  Show: 100, [SEARCH] has 37 results as of 2026-02-06
     shows 2 versions of report: https://fccid.io/2A4FBM11 <br>
     <br>
+ 	<a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/Covered-List-and-Covered-Equipment-Letter-7139573-1.pdf">Covered List and Covered Equipment Letter</a><br>
+	<a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/USA-agent-lette-7139576-1.pdf">USA agent</a><br>
+	<a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/Difference-Description-7139572-1.pdf">Difference Description</a><br>
+	<a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/Agent-Authorization-Letter-Templats-7139574-1.pdf">Agent Authorization Letter Templats</a><br>
+	<a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/FCC-Short-Long-Term-Confidentiality-Request-7139575-1.pdf">FCC Short & Long Term Confidentiality Request</a><br>
+	<a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/External-Photos-7139567-1.pdf">External Photos</a><br>
+	<a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/label-and-location-7139566-1.pdf">label and location</a><br>
+	<a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/Internal-Photos-7139568-1.pdf">Internal Photos</a><br>
+	<a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/RF%20Exposure%20Info1-3.pdf">RF Exposure Info1</a><br>
+	<a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/RF%20Exposure%20Info2-3.pdf">RF Exposure Info2</a><br>
+	<a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/RF-Exposure-Info-7139589-2.pdf">RF Exposure Info3</a><br>
+	<a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/test-Report-7139570-1.pdf">test Report1</a><br>
+  <a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/test-Report-7139590-2.pdf">test Report2</a><br>
+	<a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/Test-Photos-7139577-1.pdf">Test Setup Photos1</a><br>
+  <a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/Test-Setup-Photos-7139591-2.pdf">Test Setup Photos2</a><br>  
+	<a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/User-manual-7139569-1.pdf">User manual</a><br>
+    
     Fcc report review:<br>
 1. Firmware as 1.0, shipping is 0.9.4<br>
 2. Board rev listed as 1.2 in some places, shipping is 1.4<br>
