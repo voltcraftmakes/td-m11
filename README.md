@@ -109,7 +109,12 @@ c.<a href="http://192.168.0.130:8888">192.168.0.130:8888</a><br>
     </td>
 </tr>
 <tr><td><a href="https://www.youtube.com/watch?v=o2LUXxH6YpM&t=1641s">CPS Programming Software<br>[27:21]</a></td>
-	<td>todo</td>
+	<td><a href="https://walkietalkiesoftware.com/portal/index/software_detail/id/73.html">downoad page from tidradio is now redirect to walkietalkiesoftware.com</a> and you can create an account without email activation by using code: 751268 this lists coresondance from zuhuilv617@gmail.com<br>
+	Direct download link for CPS is <a href="https://walkietalkiesoftware.com/upload/tid/20241025/e25f9339c96c40c4efc3f289ee935012.zip">https://walkietalkiesoftware.com/upload/tid/20241025/e25f9339c96c40c4efc3f289ee935012.zip</a><br>
+	TD-M11-CPS(22CH)-en(1).exe is unsigned, so windows may give you a security warning.
+	
+		
+	</td>
 </tr><td><a href="https://www.youtube.com/watch?v=o2LUXxH6YpM&t=2020s">Prolific Chipset driver fix<br>[33:40]</a></td>
 	<Td>todo</Td>
 <tr><td><a href="https://www.youtube.com/watch?v=o2LUXxH6YpM&t=2127s">Chirp Programming Software<br>[35:27]</a></td>
