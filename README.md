@@ -125,7 +125,12 @@ c.<a href="http://192.168.0.130:8888">192.168.0.130:8888</a><br>
 	3. this tool requires a programming cable like <a href="https://tidradio.com/products/tidradio-td-ch340-driver-usb-programming-cable">TD-CH340 Kenwood 2-pin Walkie-Talkie Driver USB Programming Cable $3</a> but any cable designed for boufeng should also work - note prolific chipset drive issue resolved below<br>
 	</td>
 </tr><td><a href="https://www.youtube.com/watch?v=o2LUXxH6YpM&t=2020s">Prolific Chipset driver fix<br>[33:40]</a></td>
-	<Td>todo</Td>
+	<Td>
+		<img src="https://github.com/voltcraftmakes/td-m11/blob/main/Programming/prolific%20not%20supported.jpg" width=300><br>
+		If your USB to UART cable is based on a prolific chipset, there is a good chance that windows will now recognize the cable.  This chip was cloned years ago and the OEM Prolific fought back making a driver that fails with clones. Most cables in the market are based on clones, so to get them to work you need to use a driver for the cable that is well before the clone wars.  details of how to fix this are at <a href="https://www.miklor.com/COM/UV_Drivers.php#installation">Miklor.com USB Cable Drivers</a> and specifically on their <a href="https://www.miklor.com/COM/UV_Drivers.php#install"> on how to downgrade prolific driver to 3.2.0.0</a><br>
+			<br>
+		This older driver is also available at <a href="https://github.com/voltcraftmakes/td-m11/blob/main/Programming/P3200.exe">P3200</a><br>
+	</Td>
 <tr><td><a href="https://www.youtube.com/watch?v=o2LUXxH6YpM&t=2127s">Chirp Programming Software<br>[35:27]</a></td>
 	<td>todo
 		 com0com for bluetooth in chirp
@@ -180,6 +185,7 @@ FCC report review:<br>
 10. Test report shows unit never went over 1W ERP, marketing fluff now shows in manual <=2W, but unit is still likely a 1W max unit <a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/test-Report-7139590-2.pdf">(13)</a><br>
 11. User manual at FCC shows operating range 0-40C, test report says "normal conditions" 15-35C, extreme -20-50C, frequency error tested from -30-50C and new manual now shows operating temperature -20-60C <a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/test-Report-7139570-1.pdf">(12)</a> and <a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/User-manual-7139569-1.pdf">(16)</a><br>
 12. <a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/Agent-Authorization-Letter-Templats-7139574-1.pdf">(4) Agent Authorization Letter Templats TID 2024-02-19</a> authorizes <a href="https://qai.org/">QAI Laboratories</a> as an agent from their Burnaby Canada office. I can't find evidence of any work being coordinated from this team but maybe it was easy to access as QAI also lists an office in Shanghai China.<br>
+	<br>
 <a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/EXIFMetaData.txt">EXIF Meta Data Analysis</a> of FCC files shows a few intersting things<br>
 	1. Sid Sanders listed as author in meta data <a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/Covered-List-and-Covered-Equipment-Letter-7139573-1.pdf">(1)</a> most likely <a href="https://www.linkedin.com/in/sid-sanders-5b273814/">retired engineer in 2018</a> who had started Timco Engineering, FCC Authorized Telecommmunications Certification Body (TCB) who is now <a href="https://www.gainesville.com/obituaries/pgai0626343">deceased.</a><br>
 	2. gretchen listed as author <a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/Difference-Description-7139572-1.pdf">(3)</a> there is extremely slim chance this is a template taken from <a href="https://en.wikipedia.org/wiki/Gretchen_Rubin">Gretchen Rubin</a>she served as a chief adviser to Federal Communications Commission Chairman Reed Hundt and Mass Media Bureau, Policy and Rules Division, but the timing puts it about 15 years too late, so very unlikely. <br>
