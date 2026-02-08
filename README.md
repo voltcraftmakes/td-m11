@@ -8,7 +8,7 @@ This is detailed notes for the <a href="https://youtube.com/playlist?list=PLtvm4
   <td>
   <a href="https://youtu.be/o2LUXxH6YpM">Video #1<Br>2026-02-04</a></td>
 <td>
-Everything we know up to this point about the M11 Radio.  We tear it open, analyze the major components and then review all of the methods of programing and configuring the radio.  We look at the FCC test reports and then the accessories for sale and the current cost of different options and bundles in the market.
+Everything we know up to this point about the M11 Radio.  We tear it open, analyze the major components and then review all of the methods of programing and configuring the radio.  We look at the FCC test reports and then the accessories for sale and the current cost of different options and bundles in the market. If you don't want to watch a 1 hour video, and this page looks far to technical for you, I offer you something in the middle, an <a href="https://www.reddit.com/r/gmrs/comments/1qwq8je/tidradio_tdm11_15_handheld_complete_teardown_and/">AI written particially incorrect summary of the video, but good enough.</a> That took 15 minutes to create by AI, this summary of video 1 took about 4 days.
 </td>
 </tr>
 <tr>
