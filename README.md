@@ -94,7 +94,12 @@ c.<a href="http://192.168.0.130:8888">192.168.0.130:8888</a><br>
 	 
   </tr>
 <tr><td><a href="https://www.youtube.com/watch?v=o2LUXxH6YpM&t=1589s">Manual<br>[26:29]</a></td>
-  <td>New manual compared to one filed with FCC<br>
+  <td>
+	<img src="https://github.com/voltcraftmakes/td-m11/blob/main/docs/manual-splash.jpg" width=250><br>
+	The Latest <a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/TD-M11%20User%20Mannual%202-28.pdf">Manual</a> comes with cps in the zip file<br>
+	The FCC filing has an <a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/User-manual-7139569-1.pdf">older manual</a><br>
+	  <br>
+	New manual compared to one filed with FCC<br>
     Page3 LED Display graphic hard squished to bad ratio<br>
     Page5 Icons for Battery charge status are better<br>
     Page6 I have not seen the 'end of transmission tone' email me if you have one<br>
@@ -118,10 +123,6 @@ c.<a href="http://192.168.0.130:8888">192.168.0.130:8888</a><br>
 	1. TD-M11-CPS(22CH)-en(1).exe is unsigned, so windows may give you a security warning.<br>
 	2. this tool is the only one that currently can set and unset a password to the radio<br>
 	3. this tool requires a programming cable like <a href="https://tidradio.com/products/tidradio-td-ch340-driver-usb-programming-cable">TD-CH340 Kenwood 2-pin Walkie-Talkie Driver USB Programming Cable $3</a> but any cable designed for boufeng should also work - note prolific chipset drive issue resolved below<br>
-	
-	
-	
-		
 	</td>
 </tr><td><a href="https://www.youtube.com/watch?v=o2LUXxH6YpM&t=2020s">Prolific Chipset driver fix<br>[33:40]</a></td>
 	<Td>todo</Td>
