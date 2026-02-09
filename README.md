@@ -9,9 +9,7 @@ This is detailed notes for the <a href="https://youtube.com/playlist?list=PLtvm4
   <a href="https://youtu.be/o2LUXxH6YpM">Video #1<Br>2026-02-04</a></td>
 <td>
 Everything we know up to this point about the M11 Radio.  We tear it open, analyze the major components and then review all of the methods of programing and configuring the radio.  We look at the FCC test reports and then the accessories for sale and the current cost of different options and bundles in the market. 
-
 <br><br>If you don't want to watch a 1 hour video, and this page looks far to technical for you, I offer you something in the middle, an <a href="https://www.reddit.com/r/gmrs/comments/1qwq8je/tidradio_tdm11_15_handheld_complete_teardown_and/">an AI written partially incorrect summary of the video, but good enough for goverment work.</a> That reddit post took 15 minutes to create by AI, this github summary of video 1 (below) took about 2 days by a bona fide human.
-
 <br><br> Part of the reason the writeup took so long was becuase of the additional info uncovered in the process of capturing the notes - which as a result we now have datasheets for the Honor Cortex M0 MCU, a plausable theory on the core of Telink Bluetooth chip, and a complete analysis of all FCC documents.
 </td>
 </tr>
@@ -199,7 +197,14 @@ FCC report review:<br>
 	5. There are two distinct dates in the file package, most all files created on 2024:02:19 and only 1 file created later on 2024:02:26 is <a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/FCC/Test-Setup-Photos-7139591-2.pdf">15. Test Setup Photos2  </a><br>
 </td>
 <tr><td><a href="https://www.youtube.com/watch?v=o2LUXxH6YpM&t=3701s">Radio versions/Accessories<br>[1:01:41] </a></td>
-	<td>todo</td>
+	<td>
+		<img src="https://github.com/voltcraftmakes/td-m11/blob/main/docs/TD-M11-bundles.jpg" width=300><br>We can use <a href="https://camelcamelcamel.com/">https://camelcamelcamel.com</a> to look at the history  of the radio for sale on amazon and how the price has fluctuated.  <br>
+	the <a href="https://www.amazon.com/TIDRADIO-TD-M11-Waterproof-Handheld-Industry/dp/B0CX4WRC2N">Black 2 Pack</a> has been on sale since June 29, 2024 at $50. lowest price was $26 in June of 2025 and now sits at $30.<br>
+	The current cheapest price is a <a href="https://www.amazon.com/TIDRADIO-TD-M11-Waterproof-Industry-Security/dp/B0DH1S2LXK">2 pack of Red/Black for $29</a> thats $14.5 each<br>
+	or you can bump up to a <a href="https://www.amazon.com/Waterproof-TIDRADIO-TD-M11-Programming-Frequency/dp/B0DD3SF3Z5">4 pack of black</a> for $52, thats $13 each.<br>
+	The radio now has <a href="https://www.amazon.com/TIDRADIO-Charger-Original-Desktop-Charging/dp/B0F1C8YSWP">a 2 pack charging base for $9</a> that you can get bundled with the radio in a <a href="https://www.amazon.com/TIDRADIO-Talkies-Waterproof-Industry-Security/dp/B0F7LNS79J">2 pack for $37</a><br>
+	it is offered in a <a href="https://www.amazon.com/TIDRADIO-TD-M11-Waterproof-Programming-Rechargeable/dp/B0DLVWJLML">6 pack with a 6-bay charger and programing cable for $99</a> but I haven't got a 6 bay charger yet to tear down and see how good it is. maybe TIDradio will send me one.<br><br>
+		a <a href="https://tidradio.com/products/2500mah-battery-for-td-m11"> two pack of BE-11 batteries is $13</a> and look to be 1,000mAh for 12-24H each. given its a little bit of a pain to pry the back of the radio off too change the battery, I would opt to charge the radio and only carry a spare if I had a very unique ultralight circumstance. if weight was that much of a concern, I would move to a different radio, the <a href="https://www.amazon.com/dp/B0FN3M52FQ">Radtel RT13</a>	</td>		
 </tr>
 </table>
 
