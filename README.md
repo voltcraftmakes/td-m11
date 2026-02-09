@@ -136,8 +136,8 @@ c.<a href="http://192.168.0.130:8888">192.168.0.130:8888</a><br>
 		This older driver is also available at <a href="https://github.com/voltcraftmakes/td-m11/blob/main/Programming/P3200.exe">P3200</a><br>
 	</Td>
 <tr><td><a href="https://www.youtube.com/watch?v=o2LUXxH6YpM&t=2127s">Chirp Programming Software<br>[35:27]</a></td>
-	<td>todo
-		 com0com for bluetooth in chirp
+	<td>
+		<img src="https://github.com/voltcraftmakes/td-m11/blob/main/Programming/chirp-splash.jpg" width=250><br>Over on <a href="https://chirpmyradio.com/issues/12270">chirp issues </a> I found <a href="https://chirpmyradio.com/attachments/14695">tdm11.py </a> that is an expiremental driver in development by fred to programm the TD-M11 with chirp. In an email with Fred, I learned that he found the power on with [+][-] sequence to turn on bluetooth by trial an error - just the kind of hacker I like! Fred mentions that If you're savvy with a linux or windows PC, the M11 works really good with ble-serial (plus <a href="https://com0com.sourceforge.net/">com0com</a> on windows) for wireless programming with CHIRP.
 	</td>
 </tr><td><a href="https://www.youtube.com/watch?v=o2LUXxH6YpM&t=2344s">FCC Device 2A4FBM11 Filing<br>[39:04]</a></td>
   <td> Fcc: https://apps.fcc.gov/oetcf/eas/reports/GenericSearch.cfm  <br>
