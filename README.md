@@ -10,7 +10,7 @@ This is detailed notes for the <a href="https://youtube.com/playlist?list=PLtvm4
 <td>
 Everything we know up to this point about the M11 Radio.  We tear it open, analyze the major components and then review all of the methods of programing and configuring the radio.  We look at the FCC test reports and then the accessories for sale and the current cost of different options and bundles in the market. 
 
-<br><br>If you don't want to watch a 1 hour video, and this page looks far to technical for you, I offer you something in the middle, an <a href="https://www.reddit.com/r/gmrs/comments/1qwq8je/tidradio_tdm11_15_handheld_complete_teardown_and/">AI written particially incorrect summary of the video, but good enough.</a> That reddit post took 15 minutes to create by AI, this github summary of video 1 (below) took about 2 days by a bona fide human.
+<br><br>If you don't want to watch a 1 hour video, and this page looks far to technical for you, I offer you something in the middle, an <a href="https://www.reddit.com/r/gmrs/comments/1qwq8je/tidradio_tdm11_15_handheld_complete_teardown_and/">an AI written partially incorrect summary of the video, but good enough for goverment work.</a> That reddit post took 15 minutes to create by AI, this github summary of video 1 (below) took about 2 days by a bona fide human.
 
 <br><br> Part of the reason the writeup took so long was becuase of the additional info uncovered in the process of capturing the notes - which as a result we now have datasheets for the Honor Cortex M0 MCU, a plausable theory on the core of Telink Bluetooth chip, and a complete analysis of all FCC documents.
 </td>
