@@ -80,7 +80,7 @@ Everything we know up to this point about the M11 Radio.  We tear it open, analy
 <b>CH5</b> Power on + [PTT] = Copy Radio, Receive (this radio has memory overwritten) (undocumented)<br>
 <b>CH15</b> Power on + [PTT] + [CH+] = Voice Prompts, enable Chinese, need software to disable voice prompt after enabled<br>
 <b>CHx</b> Power on + [CH+] + [CH-] = Programming mode / TURN ON BLUETOOTH (undocumented, start from any channel)<br><br>
-	if you are new to this radio, or need a cheet sheet, you may want to print this shortcut list out and tuck it in between the radio and the belt loop, so next time you are stuck off grid with no way to run odmaster, you can clone a CTCSS tone from your friends radio and communicate with their rocky talkie.
+	if you are new to this radio, or need a cheet sheet, you may want to print this shortcut list out and tuck it in between the radio and the belt clip plastic, so next time you are stuck off grid with no way to run odmaster, you can clone a CTCSS tone from your friends radio and communicate with their rocky talkie.
 </tr>
 <tr><td><a href="https://www.youtube.com/watch?v=o2LUXxH6YpM&t=1204s">Odmaster Bluetooth Programming<br>[20:04]</a></td>
   <td>
