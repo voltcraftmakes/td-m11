@@ -22,7 +22,7 @@ Everything we know up to this point about the M11 Radio.  We tear it open, analy
   Pry face of radio off<br>
   Optional - remove power/volume knob<br>
   Remove power/volume flex circuit by lifting tab on connector and lifting cable out<br>
-  Gently pry board away from housing, push down at antenna end to seperate from case<br>
+  Gently pry board away from housing, push down at antenna end to seperate from case - note you do need to pull the board away just below the power/volume switch to free the battery connector from the case<br>
   Optional - unsolder charge contacts, mic, speaker<br>
   Optional - remove retainer ring from ptt/volume switch to remove switch  </td>
 </tr>
