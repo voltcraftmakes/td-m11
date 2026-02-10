@@ -1,7 +1,8 @@
 TIDradio TD-M11 FRS/GMRS/PMR446 radio<br>
 <br>
-This is detailed notes for the <a href="https://youtube.com/playlist?list=PLtvm4lCCHoKhjR_rtdxlchr7XDJ9G2VnH">VCmakes Youtube video series</a> tearing into this radio.
-
+This is detailed notes for the <a href="https://youtube.com/playlist?list=PLtvm4lCCHoKhjR_rtdxlchr7XDJ9G2VnH">VCmakes Youtube video series</a> tearing into this radio.<br>
+<a href="https://youtu.be/o2LUXxH6YpM"> Video 1 </a> - 2026-02-04 Teardown, Chips, programming, FCC<br>
+<a href="">Video 2 </a> - 2026-02-10 Battery Indicator, Board Pinouts, Honor HBM32G003 MCU<br>
 # Videos
 <table>
 <tr>
