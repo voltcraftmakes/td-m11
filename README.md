@@ -208,7 +208,14 @@ FCC report review:<br>
 	it is offered in a <a href="https://www.amazon.com/TIDRADIO-TD-M11-Waterproof-Programming-Rechargeable/dp/B0DLVWJLML">6 pack with a 6-bay charger and programing cable for $99</a> but I haven't got a 6 bay charger yet to tear down and see how good it is. maybe TIDradio will send me one.<br><br>
 		a <a href="https://tidradio.com/products/2500mah-battery-for-td-m11"> two pack of BE-11 batteries is $13</a> and look to be 1,000mAh for 12-24H each. given its a little bit of a pain to pry the back of the radio off too change the battery, I would opt to charge the radio and only carry a spare if I had a very unique ultralight circumstance. if weight was that much of a concern, I would move to a different radio, the <a href="https://www.amazon.com/dp/B0FN3M52FQ">Radtel RT13</a>	</td>		
 </tr>
-	<tr><th>#####</th><th scope="col">#####</th></tr>
+	
+	
+	
+	
+	
+	
+	
+	<tr><th>#####</th><th >#####</th></tr>
   <td>
   <a href="https://youtu.be/o2LUXxH6YpM">Video #2<Br>2026-02-10</a></td>
 <td>
@@ -221,15 +228,17 @@ The 2nd video in the series, we start probing the board to find the SWD port and
 Based on the testing we quantify the 4 distinct battery fuel guage voltage levels, and from the data generate the graphic for it. </td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=HMwBOp2TGeY&t=420s">Battery Chart2<br>[7:00] </a></td>
 <td>  <img src="https://github.com/voltcraftmakes/td-m11/blob/main/docs/TD-M11-Battery-Indicator-percent.jpg" width=200><br>
-We overlay the voltage test data with the typical SOC for Lithium ION cell type to see how this relates. notes this is very crude, but its almost like each of the 3 bars is 30% SOC, and the last indicator, no bars is < 5% SOC. that is very rough, but proably what the designers were aming for.  i would not trust the radio to reliably transmit when no bars are showing.</td></tr>
+We overlay the voltage test data with the typical SOC for Lithium ION cell type to see how this relates. notes this is very crude, but its almost like each of the 3 bars is 30% SOC, and the last indicator, no bars is < 5% SOC. that is very rough, but proably what the designers were aming for.  i would not trust the radio to reliably transmit when no bars are showing. at 0 battery bars, It was also interesting to see the red warning light start to blink, and sometimes a warning beep from the radio.  I have mine set to full sleep state so when the display goes dark I forget it is on.  Somewhere there is someone getting more than 20 hours of receive with one. I need to charge a radio up, turn it on and then log the voltage until it turns off - then I will know for sure SOC to voltage level - and how long the radio will last!</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=HMwBOp2TGeY&t=469s">Video1 recap<br>[7:49] </a></td>
-<td>  asdfasdf </td></tr>
+<td>  A quick tour through the documentation on this github for those that don't know its available. </td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=HMwBOp2TGeY&t=554s">Honor HBM32G003 Datasheet<br>[9:14] </a></td>
-<td>  asdfasdf </td></tr>
+<td>      <a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/HBM32G003%E6%95%B0%E6%8D%AE%E6%89%8B%E5%86%8CV1.5.pdf">HBM32G003数据手册V1.5.pdf</a><br>
+    <a href="https://github.com/voltcraftmakes/td-m11/blob/main/docs/HBM32G003%E6%95%B0%E6%8D%AE%E6%89%8B%E5%86%8CV1.5.zh-CN.en.pdf">HBM32G003数据手册V1.5.zh-CN.en.pdf</a><Br>
+datasheets were linked in video#1 when I found them doing research for that segment, and I link them here again.</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=HMwBOp2TGeY&t=842s">PCB Test Pads and SWD port<br>[14:02] </a></td>
-<td>  asdfasdf </td></tr>
-
-	
+<td>  <img src="https://github.com/voltcraftmakes/td-m11/blob/main/docs/PCB-M11-front-annotated.jpg" width=200><br>
+probe out the board with a multimeter to try and figure out what the test pads are for and easily accessible through hole pins. I was searching for the SWD port for the MCU and originally thought it was the 4 test pads, but now am fairly certain it is the 3 pads labeled (1 GND), (2 SWCLK), (3 SWDIO). I have an SWD debugger on the way to see if I can make contact with the MCU in a future video. <br><br>
+note the white paint on the power/vol knob of the radio. I find this helpful to see that the radio is turned on so its more likely I remember to turn it off!</td></tr>
 </table>
 
 
