@@ -212,12 +212,13 @@ FCC report review:<br>
   <td>
   <a href="https://youtu.be/o2LUXxH6YpM">Video #2<Br>2026-02-10</a></td>
 <td>
-asdf
+The 2nd video in the series, we start probing the board to find the SWD port and answer the question of at exactly what voltage levels the battery is at for each of the 4 battery fuel indicators.
 </td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=HMwBOp2TGeY&t=5s">Teardown<br>[0:05] </a> </td>
-<td> 235235</td></tr>
+<td> Pry open the back, measur the battery, note the battery is 3 terminals, the center contact is most likely a protected output or maybe a thermistor, unknown what this contact is.  We then strip down random copper wire to add contacts to the radio battery terminals so we can power the radio from a bench power supply.</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=HMwBOp2TGeY&t=252s">Profile battery indicator<br> [4:12] </a></td>
-<td> 654678 </td></tr>
+<td> <img src="https://github.com/voltcraftmakes/td-m11/blob/main/docs/TD-M11-Battery-Indicator.jpg" width=200><br>
+Based on the testing we quantify the 4 distinct battery fuel guage voltage levels, and from the data generate the graphic for it. </td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=HMwBOp2TGeY&t=420s">Battery Chart2<br>[7:00] </a></td>
 <td>  asdfasdf </td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=HMwBOp2TGeY&t=469s">Video1 recap<br>[7:49] </a></td>
