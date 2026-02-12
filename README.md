@@ -2,7 +2,7 @@ TIDradio TD-M11 FRS/GMRS/PMR446 radio<br>
 <br>
 This is detailed notes for the <a href="https://youtube.com/playlist?list=PLtvm4lCCHoKhjR_rtdxlchr7XDJ9G2VnH">VCmakes Youtube video series</a> tearing into this radio.<br>
 <a href="https://youtu.be/o2LUXxH6YpM"> Video 1 </a> - 2026-02-04 Teardown, Chips, programming, FCC<br>
-<a href="">Video 2 </a> - 2026-02-10 Battery Indicator, Board Pinouts, Honor HBM32G003 MCU<br>
+<a href="">Video 2 </a> - 2026-02-10 Battery Indicator, Board Pinouts, Honor HBM32G003 MCU, SWD port<br>
 # Videos
 <table>
 <tr>
@@ -208,6 +208,26 @@ FCC report review:<br>
 	it is offered in a <a href="https://www.amazon.com/TIDRADIO-TD-M11-Waterproof-Programming-Rechargeable/dp/B0DLVWJLML">6 pack with a 6-bay charger and programing cable for $99</a> but I haven't got a 6 bay charger yet to tear down and see how good it is. maybe TIDradio will send me one.<br><br>
 		a <a href="https://tidradio.com/products/2500mah-battery-for-td-m11"> two pack of BE-11 batteries is $13</a> and look to be 1,000mAh for 12-24H each. given its a little bit of a pain to pry the back of the radio off too change the battery, I would opt to charge the radio and only carry a spare if I had a very unique ultralight circumstance. if weight was that much of a concern, I would move to a different radio, the <a href="https://www.amazon.com/dp/B0FN3M52FQ">Radtel RT13</a>	</td>		
 </tr>
+	<tr><th>#####</th><th scope="col">#####</th></tr>
+  <td>
+  <a href="https://youtu.be/o2LUXxH6YpM">Video #2<Br>2026-02-10</a></td>
+<td>
+asdf
+</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=HMwBOp2TGeY&t=5s">Teardown<br>[0:05] </a> </td>
+<td> 235235</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=HMwBOp2TGeY&t=252s">Profile battery indicator<br> [4:12] </a></td>
+<td> 654678 </td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=HMwBOp2TGeY&t=420s">Battery Chart2<br>[7:00] </a></td>
+<td>  asdfasdf </td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=HMwBOp2TGeY&t=469s">Video1 recap<br>[7:49] </a></td>
+<td>  asdfasdf </td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=HMwBOp2TGeY&t=554s">Honor HBM32G003 Datasheet<br>[9:14] </a></td>
+<td>  asdfasdf </td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=HMwBOp2TGeY&t=842s">PCB Test Pads and SWD port<br>[14:02] </a></td>
+<td>  asdfasdf </td></tr>
+
+	
 </table>
 
 
