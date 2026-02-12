@@ -220,7 +220,8 @@ The 2nd video in the series, we start probing the board to find the SWD port and
 <td> <img src="https://github.com/voltcraftmakes/td-m11/blob/main/docs/TD-M11-Battery-Indicator.jpg" width=200><br>
 Based on the testing we quantify the 4 distinct battery fuel guage voltage levels, and from the data generate the graphic for it. </td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=HMwBOp2TGeY&t=420s">Battery Chart2<br>[7:00] </a></td>
-<td>  asdfasdf </td></tr>
+<td>  <img src="https://github.com/voltcraftmakes/td-m11/blob/main/docs/TD-M11-Battery-Indicator-percent.jpg" width=200><br>
+We overlay the voltage test data with the typical SOC for Lithium ION cell type to see how this relates. notes this is very crude, but its almost like each of the 3 bars is 30% SOC, and the last indicator, no bars is < 5% SOC. that is very rough, but proably what the designers were aming for.  i would not trust the radio to reliably transmit when no bars are showing.</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=HMwBOp2TGeY&t=469s">Video1 recap<br>[7:49] </a></td>
 <td>  asdfasdf </td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=HMwBOp2TGeY&t=554s">Honor HBM32G003 Datasheet<br>[9:14] </a></td>
